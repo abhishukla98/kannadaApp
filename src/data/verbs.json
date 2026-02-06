@@ -1,0 +1,782 @@
+[
+  {
+    "id": "v_001",
+    "en": "read",
+    "hi": "पढ़ें",
+    "kn": "ಓದಿ",
+    "tr_simple": "oodi",
+    "examples": [
+      {
+        "en": "Please read.",
+        "hi": "कृपया पढ़ें।",
+        "kn": "ದಯವಿಟ್ಟು ಓದಿ.",
+        "tr_simple": "dayavittu oodi."
+      },
+      {
+        "en": "Please read the mountain.",
+        "hi": "कृपया पहाड़ पढ़ें।",
+        "kn": "ದಯವಿಟ್ಟು ಬೆಟ್ಟ ಓದಿ.",
+        "tr_simple": "dayavittu betta oodi."
+      },
+      {
+        "en": "Read daily.",
+        "hi": "रोज़ पढ़ें।",
+        "kn": "ಪ್ರತಿ ದಿನ ಓದಿ.",
+        "tr_simple": "prati dina oodi."
+      },
+      {
+        "en": "Kindly read.",
+        "hi": "कृपया पढ़ें।",
+        "kn": "ದಯವಿಟ್ಟು ಓದಿ.",
+        "tr_simple": "dayavittu oodi."
+      },
+      {
+        "en": "Let’s read now.",
+        "hi": "चलो अभी पढ़ें।",
+        "kn": "ಇಗಲೇ ಓದಿ.",
+        "tr_simple": "igalee oodi."
+      }
+    ]
+  },
+  {
+    "id": "v_002",
+    "en": "write",
+    "hi": "लिखें",
+    "kn": "ಬರೆ",
+    "tr_simple": "bare",
+    "examples": [
+      {
+        "en": "Please write.",
+        "hi": "कृपया लिखें।",
+        "kn": "ದಯವಿಟ್ಟು ಬರೆ.",
+        "tr_simple": "dayavittu bare."
+      },
+      {
+        "en": "Please write the teacher.",
+        "hi": "कृपया शिक्षक लिखें।",
+        "kn": "ದಯವಿಟ್ಟು ಗುರು ಬರೆ.",
+        "tr_simple": "dayavittu guru bare."
+      },
+      {
+        "en": "Write daily.",
+        "hi": "रोज़ लिखें।",
+        "kn": "ಪ್ರತಿ ದಿನ ಬರೆ.",
+        "tr_simple": "prati dina bare."
+      },
+      {
+        "en": "Kindly write.",
+        "hi": "कृपया लिखें।",
+        "kn": "ದಯವಿಟ್ಟು ಬರೆ.",
+        "tr_simple": "dayavittu bare."
+      },
+      {
+        "en": "Let’s write now.",
+        "hi": "चलो अभी लिखें।",
+        "kn": "ಇಗಲೇ ಬರೆ.",
+        "tr_simple": "igalee bare."
+      }
+    ]
+  },
+  {
+    "id": "v_003",
+    "en": "open",
+    "hi": "खोलें",
+    "kn": "ತೆರೆಯಿರಿ",
+    "tr_simple": "tereyiri",
+    "examples": [
+      {
+        "en": "Please open.",
+        "hi": "कृपया खोलें।",
+        "kn": "ದಯವಿಟ್ಟು ತೆರೆಯಿರಿ.",
+        "tr_simple": "dayavittu tereyiri."
+      },
+      {
+        "en": "Please open the friend.",
+        "hi": "कृपया दोस्त खोलें।",
+        "kn": "ದಯವಿಟ್ಟು ಸ್ನೇಹಿತ ತೆರೆಯಿರಿ.",
+        "tr_simple": "dayavittu sneehita tereyiri."
+      },
+      {
+        "en": "Open daily.",
+        "hi": "रोज़ खोलें।",
+        "kn": "ಪ್ರತಿ ದಿನ ತೆರೆಯಿರಿ.",
+        "tr_simple": "prati dina tereyiri."
+      },
+      {
+        "en": "Kindly open.",
+        "hi": "कृपया खोलें।",
+        "kn": "ದಯವಿಟ್ಟು ತೆರೆಯಿರಿ.",
+        "tr_simple": "dayavittu tereyiri."
+      },
+      {
+        "en": "Let’s open now.",
+        "hi": "चलो अभी खोलें।",
+        "kn": "ಇಗಲೇ ತೆರೆಯಿರಿ.",
+        "tr_simple": "igalee tereyiri."
+      }
+    ]
+  },
+  {
+    "id": "v_004",
+    "en": "close",
+    "hi": "बंद करें",
+    "kn": "ಮುಚ್ಚಿರಿ",
+    "tr_simple": "muchchiri",
+    "examples": [
+      {
+        "en": "Please close.",
+        "hi": "कृपया बंद करें।",
+        "kn": "ದಯವಿಟ್ಟು ಮುಚ್ಚಿರಿ.",
+        "tr_simple": "dayavittu muchchiri."
+      },
+      {
+        "en": "Please close the file.",
+        "hi": "कृपया फ़ाइल बंद करें।",
+        "kn": "ದಯವಿಟ್ಟು ಕಡತ ಮುಚ್ಚಿರಿ.",
+        "tr_simple": "dayavittu kadata muchchiri."
+      },
+      {
+        "en": "Close daily.",
+        "hi": "रोज़ बंद करें।",
+        "kn": "ಪ್ರತಿ ದಿನ ಮುಚ್ಚಿರಿ.",
+        "tr_simple": "prati dina muchchiri."
+      },
+      {
+        "en": "Kindly close.",
+        "hi": "कृपया बंद करें।",
+        "kn": "ದಯವಿಟ್ಟು ಮುಚ್ಚಿರಿ.",
+        "tr_simple": "dayavittu muchchiri."
+      },
+      {
+        "en": "Let’s close now.",
+        "hi": "चलो अभी बंद करें।",
+        "kn": "ಇಗಲೇ ಮುಚ್ಚಿರಿ.",
+        "tr_simple": "igalee muchchiri."
+      }
+    ]
+  },
+  {
+    "id": "v_005",
+    "en": "eat",
+    "hi": "खाइए",
+    "kn": "ತಿನ್ನಿ",
+    "tr_simple": "tinni",
+    "examples": [
+      {
+        "en": "Please eat.",
+        "hi": "कृपया खाइए।",
+        "kn": "ದಯವಿಟ್ಟು ತಿನ್ನಿ.",
+        "tr_simple": "dayavittu tinni."
+      },
+      {
+        "en": "Please eat the mountain.",
+        "hi": "कृपया पहाड़ खाइए।",
+        "kn": "ದಯವಿಟ್ಟು ಬೆಟ್ಟ ತಿನ್ನಿ.",
+        "tr_simple": "dayavittu betta tinni."
+      },
+      {
+        "en": "Eat daily.",
+        "hi": "रोज़ खाइए।",
+        "kn": "ಪ್ರತಿ ದಿನ ತಿನ್ನಿ.",
+        "tr_simple": "prati dina tinni."
+      },
+      {
+        "en": "Kindly eat.",
+        "hi": "कृपया खाइए।",
+        "kn": "ದಯವಿಟ್ಟು ತಿನ್ನಿ.",
+        "tr_simple": "dayavittu tinni."
+      },
+      {
+        "en": "Let’s eat now.",
+        "hi": "चलो अभी खाइए।",
+        "kn": "ಇಗಲೇ ತಿನ್ನಿ.",
+        "tr_simple": "igalee tinni."
+      }
+    ]
+  },
+  {
+    "id": "v_006",
+    "en": "drink",
+    "hi": "पीजिए",
+    "kn": "ಕುಡಿ",
+    "tr_simple": "kudi",
+    "examples": [
+      {
+        "en": "Please drink.",
+        "hi": "कृपया पीजिए।",
+        "kn": "ದಯವಿಟ್ಟು ಕುಡಿ.",
+        "tr_simple": "dayavittu kudi."
+      },
+      {
+        "en": "Please drink the book.",
+        "hi": "कृपया किताब पीजिए।",
+        "kn": "ದಯವಿಟ್ಟು ಪುಸ್ತಕ ಕುಡಿ.",
+        "tr_simple": "dayavittu pustaka kudi."
+      },
+      {
+        "en": "Drink daily.",
+        "hi": "रोज़ पीजिए।",
+        "kn": "ಪ್ರತಿ ದಿನ ಕುಡಿ.",
+        "tr_simple": "prati dina kudi."
+      },
+      {
+        "en": "Kindly drink.",
+        "hi": "कृपया पीजिए।",
+        "kn": "ದಯವಿಟ್ಟು ಕುಡಿ.",
+        "tr_simple": "dayavittu kudi."
+      },
+      {
+        "en": "Let’s drink now.",
+        "hi": "चलो अभी पीजिए।",
+        "kn": "ಇಗಲೇ ಕುಡಿ.",
+        "tr_simple": "igalee kudi."
+      }
+    ]
+  },
+  {
+    "id": "v_007",
+    "en": "go",
+    "hi": "जाइए",
+    "kn": "ಹೋಗಿ",
+    "tr_simple": "hoogi",
+    "examples": [
+      {
+        "en": "Please go.",
+        "hi": "कृपया जाइए।",
+        "kn": "ದಯವಿಟ್ಟು ಹೋಗಿ.",
+        "tr_simple": "dayavittu hoogi."
+      },
+      {
+        "en": "Please go the watch.",
+        "hi": "कृपया घड़ी जाइए।",
+        "kn": "ದಯವಿಟ್ಟು ಗಡಿಯಾರ ಹೋಗಿ.",
+        "tr_simple": "dayavittu gadiyaara hoogi."
+      },
+      {
+        "en": "Go daily.",
+        "hi": "रोज़ जाइए।",
+        "kn": "ಪ್ರತಿ ದಿನ ಹೋಗಿ.",
+        "tr_simple": "prati dina hoogi."
+      },
+      {
+        "en": "Kindly go.",
+        "hi": "कृपया जाइए।",
+        "kn": "ದಯವಿಟ್ಟು ಹೋಗಿ.",
+        "tr_simple": "dayavittu hoogi."
+      },
+      {
+        "en": "Let’s go now.",
+        "hi": "चलो अभी जाइए।",
+        "kn": "ಇಗಲೇ ಹೋಗಿ.",
+        "tr_simple": "igalee hoogi."
+      }
+    ]
+  },
+  {
+    "id": "v_008",
+    "en": "come",
+    "hi": "आइए",
+    "kn": "ಬನ್ನಿ",
+    "tr_simple": "banni",
+    "examples": [
+      {
+        "en": "Please come.",
+        "hi": "कृपया आइए।",
+        "kn": "ದಯವಿಟ್ಟು ಬನ್ನಿ.",
+        "tr_simple": "dayavittu banni."
+      },
+      {
+        "en": "Please come the teacher.",
+        "hi": "कृपया शिक्षक आइए।",
+        "kn": "ದಯವಿಟ್ಟು ಗುರು ಬನ್ನಿ.",
+        "tr_simple": "dayavittu guru banni."
+      },
+      {
+        "en": "Come daily.",
+        "hi": "रोज़ आइए।",
+        "kn": "ಪ್ರತಿ ದಿನ ಬನ್ನಿ.",
+        "tr_simple": "prati dina banni."
+      },
+      {
+        "en": "Kindly come.",
+        "hi": "कृपया आइए।",
+        "kn": "ದಯವಿಟ್ಟು ಬನ್ನಿ.",
+        "tr_simple": "dayavittu banni."
+      },
+      {
+        "en": "Let’s come now.",
+        "hi": "चलो अभी आइए।",
+        "kn": "ಇಗಲೇ ಬನ್ನಿ.",
+        "tr_simple": "igalee banni."
+      }
+    ]
+  },
+  {
+    "id": "v_009",
+    "en": "look",
+    "hi": "देखिए",
+    "kn": "ನೋಡಿ",
+    "tr_simple": "noodi",
+    "examples": [
+      {
+        "en": "Please look.",
+        "hi": "कृपया देखिए।",
+        "kn": "ದಯವಿಟ್ಟು ನೋಡಿ.",
+        "tr_simple": "dayavittu noodi."
+      },
+      {
+        "en": "Please look the bread.",
+        "hi": "कृपया रोटी देखिए।",
+        "kn": "ದಯವಿಟ್ಟು ರೊಟ್ಟಿ ನೋಡಿ.",
+        "tr_simple": "dayavittu rotti noodi."
+      },
+      {
+        "en": "Look daily.",
+        "hi": "रोज़ देखिए।",
+        "kn": "ಪ್ರತಿ ದಿನ ನೋಡಿ.",
+        "tr_simple": "prati dina noodi."
+      },
+      {
+        "en": "Kindly look.",
+        "hi": "कृपया देखिए।",
+        "kn": "ದಯವಿಟ್ಟು ನೋಡಿ.",
+        "tr_simple": "dayavittu noodi."
+      },
+      {
+        "en": "Let’s look now.",
+        "hi": "चलो अभी देखिए।",
+        "kn": "ಇಗಲೇ ನೋಡಿ.",
+        "tr_simple": "igalee noodi."
+      }
+    ]
+  },
+  {
+    "id": "v_010",
+    "en": "listen",
+    "hi": "सुनिए",
+    "kn": "ಕೇಳಿ",
+    "tr_simple": "keeli",
+    "examples": [
+      {
+        "en": "Please listen.",
+        "hi": "कृपया सुनिए।",
+        "kn": "ದಯವಿಟ್ಟು ಕೇಳಿ.",
+        "tr_simple": "dayavittu keeli."
+      },
+      {
+        "en": "Please listen the teacher.",
+        "hi": "कृपया शिक्षक सुनिए।",
+        "kn": "ದಯವಿಟ್ಟು ಗುರು ಕೇಳಿ.",
+        "tr_simple": "dayavittu guru keeli."
+      },
+      {
+        "en": "Listen daily.",
+        "hi": "रोज़ सुनिए।",
+        "kn": "ಪ್ರತಿ ದಿನ ಕೇಳಿ.",
+        "tr_simple": "prati dina keeli."
+      },
+      {
+        "en": "Kindly listen.",
+        "hi": "कृपया सुनिए।",
+        "kn": "ದಯವಿಟ್ಟು ಕೇಳಿ.",
+        "tr_simple": "dayavittu keeli."
+      },
+      {
+        "en": "Let’s listen now.",
+        "hi": "चलो अभी सुनिए।",
+        "kn": "ಇಗಲೇ ಕೇಳಿ.",
+        "tr_simple": "igalee keeli."
+      }
+    ]
+  },
+  {
+    "id": "v_011",
+    "en": "speak",
+    "hi": "बोलिए",
+    "kn": "ಮಾತನಾಡಿ",
+    "tr_simple": "maatanaadi",
+    "examples": [
+      {
+        "en": "Please speak.",
+        "hi": "कृपया बोलिए।",
+        "kn": "ದಯವಿಟ್ಟು ಮಾತನಾಡಿ.",
+        "tr_simple": "dayavittu maatanaadi."
+      },
+      {
+        "en": "Please speak the bread.",
+        "hi": "कृपया रोटी बोलिए।",
+        "kn": "ದಯವಿಟ್ಟು ರೊಟ್ಟಿ ಮಾತನಾಡಿ.",
+        "tr_simple": "dayavittu rotti maatanaadi."
+      },
+      {
+        "en": "Speak daily.",
+        "hi": "रोज़ बोलिए।",
+        "kn": "ಪ್ರತಿ ದಿನ ಮಾತನಾಡಿ.",
+        "tr_simple": "prati dina maatanaadi."
+      },
+      {
+        "en": "Kindly speak.",
+        "hi": "कृपया बोलिए।",
+        "kn": "ದಯವಿಟ್ಟು ಮಾತನಾಡಿ.",
+        "tr_simple": "dayavittu maatanaadi."
+      },
+      {
+        "en": "Let’s speak now.",
+        "hi": "चलो अभी बोलिए।",
+        "kn": "ಇಗಲೇ ಮಾತನಾಡಿ.",
+        "tr_simple": "igalee maatanaadi."
+      }
+    ]
+  },
+  {
+    "id": "v_012",
+    "en": "sit",
+    "hi": "बैठिए",
+    "kn": "ಕುಳಿತುಕೊಳ್ಳಿ",
+    "tr_simple": "kulitukolli",
+    "examples": [
+      {
+        "en": "Please sit.",
+        "hi": "कृपया बैठिए।",
+        "kn": "ದಯವಿಟ್ಟು ಕುಳಿತುಕೊಳ್ಳಿ.",
+        "tr_simple": "dayavittu kulitukolli."
+      },
+      {
+        "en": "Please sit the moon.",
+        "hi": "कृपया चाँद बैठिए।",
+        "kn": "ದಯವಿಟ್ಟು ಚಂದ್ರ ಕುಳಿತುಕೊಳ್ಳಿ.",
+        "tr_simple": "dayavittu chamdra kulitukolli."
+      },
+      {
+        "en": "Sit daily.",
+        "hi": "रोज़ बैठिए।",
+        "kn": "ಪ್ರತಿ ದಿನ ಕುಳಿತುಕೊಳ್ಳಿ.",
+        "tr_simple": "prati dina kulitukolli."
+      },
+      {
+        "en": "Kindly sit.",
+        "hi": "कृपया बैठिए।",
+        "kn": "ದಯವಿಟ್ಟು ಕುಳಿತುಕೊಳ್ಳಿ.",
+        "tr_simple": "dayavittu kulitukolli."
+      },
+      {
+        "en": "Let’s sit now.",
+        "hi": "चलो अभी बैठिए।",
+        "kn": "ಇಗಲೇ ಕುಳಿತುಕೊಳ್ಳಿ.",
+        "tr_simple": "igalee kulitukolli."
+      }
+    ]
+  },
+  {
+    "id": "v_013",
+    "en": "stand",
+    "hi": "खड़े होइए",
+    "kn": "ನಿಂತುಕೊಳ್ಳಿ",
+    "tr_simple": "nimtukolli",
+    "examples": [
+      {
+        "en": "Please stand.",
+        "hi": "कृपया खड़े होइए।",
+        "kn": "ದಯವಿಟ್ಟು ನಿಂತುಕೊಳ್ಳಿ.",
+        "tr_simple": "dayavittu nimtukolli."
+      },
+      {
+        "en": "Please stand the book.",
+        "hi": "कृपया किताब खड़े होइए।",
+        "kn": "ದಯವಿಟ್ಟು ಪುಸ್ತಕ ನಿಂತುಕೊಳ್ಳಿ.",
+        "tr_simple": "dayavittu pustaka nimtukolli."
+      },
+      {
+        "en": "Stand daily.",
+        "hi": "रोज़ खड़े होइए।",
+        "kn": "ಪ್ರತಿ ದಿನ ನಿಂತುಕೊಳ್ಳಿ.",
+        "tr_simple": "prati dina nimtukolli."
+      },
+      {
+        "en": "Kindly stand.",
+        "hi": "कृपया खड़े होइए।",
+        "kn": "ದಯವಿಟ್ಟು ನಿಂತುಕೊಳ್ಳಿ.",
+        "tr_simple": "dayavittu nimtukolli."
+      },
+      {
+        "en": "Let’s stand now.",
+        "hi": "चलो अभी खड़े होइए।",
+        "kn": "ಇಗಲೇ ನಿಂತುಕೊಳ್ಳಿ.",
+        "tr_simple": "igalee nimtukolli."
+      }
+    ]
+  },
+  {
+    "id": "v_014",
+    "en": "call",
+    "hi": "कॉल करें",
+    "kn": "ಕರೆ ಮಾಡಿ",
+    "tr_simple": "kare maadi",
+    "examples": [
+      {
+        "en": "Please call.",
+        "hi": "कृपया कॉल करें।",
+        "kn": "ದಯವಿಟ್ಟು ಕರೆ ಮಾಡಿ.",
+        "tr_simple": "dayavittu kare maadi."
+      },
+      {
+        "en": "Please call the file.",
+        "hi": "कृपया फ़ाइल कॉल करें।",
+        "kn": "ದಯವಿಟ್ಟು ಕಡತ ಕರೆ ಮಾಡಿ.",
+        "tr_simple": "dayavittu kadata kare maadi."
+      },
+      {
+        "en": "Call daily.",
+        "hi": "रोज़ कॉल करें।",
+        "kn": "ಪ್ರತಿ ದಿನ ಕರೆ ಮಾಡಿ.",
+        "tr_simple": "prati dina kare maadi."
+      },
+      {
+        "en": "Kindly call.",
+        "hi": "कृपया कॉल करें।",
+        "kn": "ದಯವಿಟ್ಟು ಕರೆ ಮಾಡಿ.",
+        "tr_simple": "dayavittu kare maadi."
+      },
+      {
+        "en": "Let’s call now.",
+        "hi": "चलो अभी कॉल करें।",
+        "kn": "ಇಗಲೇ ಕರೆ ಮಾಡಿ.",
+        "tr_simple": "igalee kare maadi."
+      }
+    ]
+  },
+  {
+    "id": "v_015",
+    "en": "help",
+    "hi": "मदद करें",
+    "kn": "ಸಹಾಯ ಮಾಡಿ",
+    "tr_simple": "sahaaya maadi",
+    "examples": [
+      {
+        "en": "Please help.",
+        "hi": "कृपया मदद करें।",
+        "kn": "ದಯವಿಟ್ಟು ಸಹಾಯ ಮಾಡಿ.",
+        "tr_simple": "dayavittu sahaaya maadi."
+      },
+      {
+        "en": "Please help the mountain.",
+        "hi": "कृपया पहाड़ मदद करें।",
+        "kn": "ದಯವಿಟ್ಟು ಬೆಟ್ಟ ಸಹಾಯ ಮಾಡಿ.",
+        "tr_simple": "dayavittu betta sahaaya maadi."
+      },
+      {
+        "en": "Help daily.",
+        "hi": "रोज़ मदद करें।",
+        "kn": "ಪ್ರತಿ ದಿನ ಸಹಾಯ ಮಾಡಿ.",
+        "tr_simple": "prati dina sahaaya maadi."
+      },
+      {
+        "en": "Kindly help.",
+        "hi": "कृपया मदद करें।",
+        "kn": "ದಯವಿಟ್ಟು ಸಹಾಯ ಮಾಡಿ.",
+        "tr_simple": "dayavittu sahaaya maadi."
+      },
+      {
+        "en": "Let’s help now.",
+        "hi": "चलो अभी मदद करें।",
+        "kn": "ಇಗಲೇ ಸಹಾಯ ಮಾಡಿ.",
+        "tr_simple": "igalee sahaaya maadi."
+      }
+    ]
+  },
+  {
+    "id": "v_016",
+    "en": "wait",
+    "hi": "इंतज़ार करें",
+    "kn": "ಕಾಯಿರಿ",
+    "tr_simple": "kaayiri",
+    "examples": [
+      {
+        "en": "Please wait.",
+        "hi": "कृपया इंतज़ार करें।",
+        "kn": "ದಯವಿಟ್ಟು ಕಾಯಿರಿ.",
+        "tr_simple": "dayavittu kaayiri."
+      },
+      {
+        "en": "Please wait the oil.",
+        "hi": "कृपया तेल इंतज़ार करें।",
+        "kn": "ದಯವಿಟ್ಟು ಎಣ್ಣೆ ಕಾಯಿರಿ.",
+        "tr_simple": "dayavittu enne kaayiri."
+      },
+      {
+        "en": "Wait daily.",
+        "hi": "रोज़ इंतज़ार करें।",
+        "kn": "ಪ್ರತಿ ದಿನ ಕಾಯಿರಿ.",
+        "tr_simple": "prati dina kaayiri."
+      },
+      {
+        "en": "Kindly wait.",
+        "hi": "कृपया इंतज़ार करें।",
+        "kn": "ದಯವಿಟ್ಟು ಕಾಯಿರಿ.",
+        "tr_simple": "dayavittu kaayiri."
+      },
+      {
+        "en": "Let’s wait now.",
+        "hi": "चलो अभी इंतज़ार करें।",
+        "kn": "ಇಗಲೇ ಕಾಯಿರಿ.",
+        "tr_simple": "igalee kaayiri."
+      }
+    ]
+  },
+  {
+    "id": "v_017",
+    "en": "start",
+    "hi": "शुरू करें",
+    "kn": "ಆರಂಭಿಸಿ",
+    "tr_simple": "aarambhisi",
+    "examples": [
+      {
+        "en": "Please start.",
+        "hi": "कृपया शुरू करें।",
+        "kn": "ದಯವಿಟ್ಟು ಆರಂಭಿಸಿ.",
+        "tr_simple": "dayavittu aarambhisi."
+      },
+      {
+        "en": "Please start the book.",
+        "hi": "कृपया किताब शुरू करें।",
+        "kn": "ದಯವಿಟ್ಟು ಪುಸ್ತಕ ಆರಂಭಿಸಿ.",
+        "tr_simple": "dayavittu pustaka aarambhisi."
+      },
+      {
+        "en": "Start daily.",
+        "hi": "रोज़ शुरू करें।",
+        "kn": "ಪ್ರತಿ ದಿನ ಆರಂಭಿಸಿ.",
+        "tr_simple": "prati dina aarambhisi."
+      },
+      {
+        "en": "Kindly start.",
+        "hi": "कृपया शुरू करें।",
+        "kn": "ದಯವಿಟ್ಟು ಆರಂಭಿಸಿ.",
+        "tr_simple": "dayavittu aarambhisi."
+      },
+      {
+        "en": "Let’s start now.",
+        "hi": "चलो अभी शुरू करें।",
+        "kn": "ಇಗಲೇ ಆರಂಭಿಸಿ.",
+        "tr_simple": "igalee aarambhisi."
+      }
+    ]
+  },
+  {
+    "id": "v_018",
+    "en": "stop",
+    "hi": "रोकें",
+    "kn": "ನಿಲ್ಲಿಸಿ",
+    "tr_simple": "nillisi",
+    "examples": [
+      {
+        "en": "Please stop.",
+        "hi": "कृपया रोकें।",
+        "kn": "ದಯವಿಟ್ಟು ನಿಲ್ಲಿಸಿ.",
+        "tr_simple": "dayavittu nillisi."
+      },
+      {
+        "en": "Please stop the moon.",
+        "hi": "कृपया चाँद रोकें।",
+        "kn": "ದಯವಿಟ್ಟು ಚಂದ್ರ ನಿಲ್ಲಿಸಿ.",
+        "tr_simple": "dayavittu chamdra nillisi."
+      },
+      {
+        "en": "Stop daily.",
+        "hi": "रोज़ रोकें।",
+        "kn": "ಪ್ರತಿ ದಿನ ನಿಲ್ಲಿಸಿ.",
+        "tr_simple": "prati dina nillisi."
+      },
+      {
+        "en": "Kindly stop.",
+        "hi": "कृपया रोकें।",
+        "kn": "ದಯವಿಟ್ಟು ನಿಲ್ಲಿಸಿ.",
+        "tr_simple": "dayavittu nillisi."
+      },
+      {
+        "en": "Let’s stop now.",
+        "hi": "चलो अभी रोकें।",
+        "kn": "ಇಗಲೇ ನಿಲ್ಲಿಸಿ.",
+        "tr_simple": "igalee nillisi."
+      }
+    ]
+  },
+  {
+    "id": "v_019",
+    "en": "save",
+    "hi": "सहेजें",
+    "kn": "ಉಳಿಸಿ",
+    "tr_simple": "ulisi",
+    "examples": [
+      {
+        "en": "Please save.",
+        "hi": "कृपया सहेजें।",
+        "kn": "ದಯವಿಟ್ಟು ಉಳಿಸಿ.",
+        "tr_simple": "dayavittu ulisi."
+      },
+      {
+        "en": "Please save the oil.",
+        "hi": "कृपया तेल सहेजें।",
+        "kn": "ದಯವಿಟ್ಟು ಎಣ್ಣೆ ಉಳಿಸಿ.",
+        "tr_simple": "dayavittu enne ulisi."
+      },
+      {
+        "en": "Save daily.",
+        "hi": "रोज़ सहेजें।",
+        "kn": "ಪ್ರತಿ ದಿನ ಉಳಿಸಿ.",
+        "tr_simple": "prati dina ulisi."
+      },
+      {
+        "en": "Kindly save.",
+        "hi": "कृपया सहेजें।",
+        "kn": "ದಯವಿಟ್ಟು ಉಳಿಸಿ.",
+        "tr_simple": "dayavittu ulisi."
+      },
+      {
+        "en": "Let’s save now.",
+        "hi": "चलो अभी सहेजें।",
+        "kn": "ಇಗಲೇ ಉಳಿಸಿ.",
+        "tr_simple": "igalee ulisi."
+      }
+    ]
+  },
+  {
+    "id": "v_020",
+    "en": "send",
+    "hi": "भेजें",
+    "kn": "ಕಳುಹಿಸಿ",
+    "tr_simple": "kaluhisi",
+    "examples": [
+      {
+        "en": "Please send.",
+        "hi": "कृपया भेजें।",
+        "kn": "ದಯವಿಟ್ಟು ಕಳುಹಿಸಿ.",
+        "tr_simple": "dayavittu kaluhisi."
+      },
+      {
+        "en": "Please send the bread.",
+        "hi": "कृपया रोटी भेजें।",
+        "kn": "ದಯವಿಟ್ಟು ರೊಟ್ಟಿ ಕಳುಹಿಸಿ.",
+        "tr_simple": "dayavittu rotti kaluhisi."
+      },
+      {
+        "en": "Send daily.",
+        "hi": "रोज़ भेजें।",
+        "kn": "ಪ್ರತಿ ದಿನ ಕಳುಹಿಸಿ.",
+        "tr_simple": "prati dina kaluhisi."
+      },
+      {
+        "en": "Kindly send.",
+        "hi": "कृपया भेजें।",
+        "kn": "ದಯವಿಟ್ಟು ಕಳುಹಿಸಿ.",
+        "tr_simple": "dayavittu kaluhisi."
+      },
+      {
+        "en": "Let’s send now.",
+        "hi": "चलो अभी भेजें।",
+        "kn": "ಇಗಲೇ ಕಳುಹಿಸಿ.",
+        "tr_simple": "igalee kaluhisi."
+      }
+    ]
+  }
+]

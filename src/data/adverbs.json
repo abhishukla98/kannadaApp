@@ -1,0 +1,233 @@
+[
+  {
+    "id": "adv_001",
+    "en": "daily",
+    "hi": "रोज़ाना",
+    "kn": "ದೈನಂದಿನ",
+    "tr_simple": "dainamdina",
+    "examples": [
+      {
+        "en": "Go daily.",
+        "hi": "रोज़ाना जाएँ।",
+        "kn": "ದೈನಂದಿನ ಹೋಗಿ.",
+        "tr_simple": "dainamdina hoogi."
+      },
+      {
+        "en": "Speak daily.",
+        "hi": "रोज़ाना बोलिए।",
+        "kn": "ದೈನಂದಿನ ಮಾತನಾಡಿ.",
+        "tr_simple": "dainamdina maatanaadi."
+      }
+    ]
+  },
+  {
+    "id": "adv_002",
+    "en": "always",
+    "hi": "हमेशा",
+    "kn": "ಸದಾ",
+    "tr_simple": "sadaa",
+    "examples": [
+      {
+        "en": "Go always.",
+        "hi": "हमेशा जाएँ।",
+        "kn": "ಸದಾ ಹೋಗಿ.",
+        "tr_simple": "sadaa hoogi."
+      },
+      {
+        "en": "Speak always.",
+        "hi": "हमेशा बोलिए।",
+        "kn": "ಸದಾ ಮಾತನಾಡಿ.",
+        "tr_simple": "sadaa maatanaadi."
+      }
+    ]
+  },
+  {
+    "id": "adv_003",
+    "en": "sometimes",
+    "hi": "कभी-कभी",
+    "kn": "ಕೆಲವೊಮ್ಮೆ",
+    "tr_simple": "kelavomme",
+    "examples": [
+      {
+        "en": "Go sometimes.",
+        "hi": "कभी-कभी जाएँ।",
+        "kn": "ಕೆಲವೊಮ್ಮೆ ಹೋಗಿ.",
+        "tr_simple": "kelavomme hoogi."
+      },
+      {
+        "en": "Speak sometimes.",
+        "hi": "कभी-कभी बोलिए।",
+        "kn": "ಕೆಲವೊಮ್ಮೆ ಮಾತನಾಡಿ.",
+        "tr_simple": "kelavomme maatanaadi."
+      }
+    ]
+  },
+  {
+    "id": "adv_004",
+    "en": "today",
+    "hi": "आज",
+    "kn": "ಇಂದು",
+    "tr_simple": "imdu",
+    "examples": [
+      {
+        "en": "Go today.",
+        "hi": "आज जाएँ।",
+        "kn": "ಇಂದು ಹೋಗಿ.",
+        "tr_simple": "imdu hoogi."
+      },
+      {
+        "en": "Speak today.",
+        "hi": "आज बोलिए।",
+        "kn": "ಇಂದು ಮಾತನಾಡಿ.",
+        "tr_simple": "imdu maatanaadi."
+      }
+    ]
+  },
+  {
+    "id": "adv_005",
+    "en": "yesterday",
+    "hi": "कल",
+    "kn": "ನಿನ್ನೆ",
+    "tr_simple": "ninne",
+    "examples": [
+      {
+        "en": "Go yesterday.",
+        "hi": "कल जाएँ।",
+        "kn": "ನಿನ್ನೆ ಹೋಗಿ.",
+        "tr_simple": "ninne hoogi."
+      },
+      {
+        "en": "Speak yesterday.",
+        "hi": "कल बोलिए।",
+        "kn": "ನಿನ್ನೆ ಮಾತನಾಡಿ.",
+        "tr_simple": "ninne maatanaadi."
+      }
+    ]
+  },
+  {
+    "id": "adv_006",
+    "en": "tomorrow",
+    "hi": "कल",
+    "kn": "ನಾಳೆ",
+    "tr_simple": "naale",
+    "examples": [
+      {
+        "en": "Go tomorrow.",
+        "hi": "कल जाएँ।",
+        "kn": "ನಾಳೆ ಹೋಗಿ.",
+        "tr_simple": "naale hoogi."
+      },
+      {
+        "en": "Speak tomorrow.",
+        "hi": "कल बोलिए।",
+        "kn": "ನಾಳೆ ಮಾತನಾಡಿ.",
+        "tr_simple": "naale maatanaadi."
+      }
+    ]
+  },
+  {
+    "id": "adv_007",
+    "en": "now",
+    "hi": "अभी",
+    "kn": "ಈಗ",
+    "tr_simple": "iiga",
+    "examples": [
+      {
+        "en": "Go now.",
+        "hi": "अभी जाएँ।",
+        "kn": "ಈಗ ಹೋಗಿ.",
+        "tr_simple": "iiga hoogi."
+      },
+      {
+        "en": "Speak now.",
+        "hi": "अभी बोलिए।",
+        "kn": "ಈಗ ಮಾತನಾಡಿ.",
+        "tr_simple": "iiga maatanaadi."
+      }
+    ]
+  },
+  {
+    "id": "adv_008",
+    "en": "slowly",
+    "hi": "धीरे से",
+    "kn": "ನಿಧಾನವಾಗಿ",
+    "tr_simple": "nidhaanavaagi",
+    "examples": [
+      {
+        "en": "Go slowly.",
+        "hi": "धीरे से जाएँ।",
+        "kn": "ನಿಧಾನವಾಗಿ ಹೋಗಿ.",
+        "tr_simple": "nidhaanavaagi hoogi."
+      },
+      {
+        "en": "Speak slowly.",
+        "hi": "धीरे से बोलिए।",
+        "kn": "ನಿಧಾನವಾಗಿ ಮಾತನಾಡಿ.",
+        "tr_simple": "nidhaanavaagi maatanaadi."
+      }
+    ]
+  },
+  {
+    "id": "adv_009",
+    "en": "quickly",
+    "hi": "जल्दी से",
+    "kn": "ಶೀಘ್ರವಾಗಿ",
+    "tr_simple": "shiighravaagi",
+    "examples": [
+      {
+        "en": "Go quickly.",
+        "hi": "जल्दी से जाएँ।",
+        "kn": "ಶೀಘ್ರವಾಗಿ ಹೋಗಿ.",
+        "tr_simple": "shiighravaagi hoogi."
+      },
+      {
+        "en": "Speak quickly.",
+        "hi": "जल्दी से बोलिए।",
+        "kn": "ಶೀಘ್ರವಾಗಿ ಮಾತನಾಡಿ.",
+        "tr_simple": "shiighravaagi maatanaadi."
+      }
+    ]
+  },
+  {
+    "id": "adv_010",
+    "en": "here",
+    "hi": "यहाँ",
+    "kn": "ಇಲ್ಲಿ",
+    "tr_simple": "illi",
+    "examples": [
+      {
+        "en": "Go here.",
+        "hi": "यहाँ जाएँ।",
+        "kn": "ಇಲ್ಲಿ ಹೋಗಿ.",
+        "tr_simple": "illi hoogi."
+      },
+      {
+        "en": "Speak here.",
+        "hi": "यहाँ बोलिए।",
+        "kn": "ಇಲ್ಲಿ ಮಾತನಾಡಿ.",
+        "tr_simple": "illi maatanaadi."
+      }
+    ]
+  },
+  {
+    "id": "adv_011",
+    "en": "there",
+    "hi": "वहाँ",
+    "kn": "ಅಲ್ಲಿ",
+    "tr_simple": "alli",
+    "examples": [
+      {
+        "en": "Go there.",
+        "hi": "वहाँ जाएँ।",
+        "kn": "ಅಲ್ಲಿ ಹೋಗಿ.",
+        "tr_simple": "alli hoogi."
+      },
+      {
+        "en": "Speak there.",
+        "hi": "वहाँ बोलिए।",
+        "kn": "ಅಲ್ಲಿ ಮಾತನಾಡಿ.",
+        "tr_simple": "alli maatanaadi."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1016 @@
+[
+  {
+    "id": "adj_001",
+    "en": "big",
+    "hi": "बड़ा",
+    "kn": "ದೊಡ್ಡ",
+    "tr_simple": "dodda",
+    "examples": [
+      {
+        "en": "The market is big.",
+        "hi": "बाज़ार बड़ा है।",
+        "kn": "ಮಾರುಕಟ್ಟೆ ದೊಡ್ಡ ಆಗಿದೆ.",
+        "tr_simple": "maarukatte dodda aagide."
+      },
+      {
+        "en": "This market is very big.",
+        "hi": "यह बाज़ार बहुत बड़ा है।",
+        "kn": "ಈ ಮಾರುಕಟ್ಟೆ ತುಂಬಾ ದೊಡ್ಡ.",
+        "tr_simple": "ii maarukatte tumbaa dodda."
+      },
+      {
+        "en": "A big market is here.",
+        "hi": "एक बड़ा बाज़ार यहाँ है।",
+        "kn": "ಒಂದು ದೊಡ್ಡ ಮಾರುಕಟ್ಟೆ ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu dodda maarukatte illi ide."
+      },
+      {
+        "en": "Is the market big?",
+        "hi": "क्या बाज़ार बड़ा है?",
+        "kn": "ಮಾರುಕಟ್ಟೆ ದೊಡ್ಡ ಇದೆಯಾ?",
+        "tr_simple": "maarukatte dodda ideyaa?"
+      },
+      {
+        "en": "Your market looks big.",
+        "hi": "आपका बाज़ार बड़ा लगता है।",
+        "kn": "ನಿಮ್ಮ ಮಾರುಕಟ್ಟೆ ದೊಡ್ಡ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma maarukatte dodda kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_002",
+    "en": "small",
+    "hi": "छोटा",
+    "kn": "ಸಣ್ಣ",
+    "tr_simple": "sanna",
+    "examples": [
+      {
+        "en": "The flower is small.",
+        "hi": "फूल छोटा है।",
+        "kn": "ಹೂವು ಸಣ್ಣ ಆಗಿದೆ.",
+        "tr_simple": "huuvu sanna aagide."
+      },
+      {
+        "en": "This flower is very small.",
+        "hi": "यह फूल बहुत छोटा है।",
+        "kn": "ಈ ಹೂವು ತುಂಬಾ ಸಣ್ಣ.",
+        "tr_simple": "ii huuvu tumbaa sanna."
+      },
+      {
+        "en": "A small flower is here.",
+        "hi": "एक छोटा फूल यहाँ है।",
+        "kn": "ಒಂದು ಸಣ್ಣ ಹೂವು ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu sanna huuvu illi ide."
+      },
+      {
+        "en": "Is the flower small?",
+        "hi": "क्या फूल छोटा है?",
+        "kn": "ಹೂವು ಸಣ್ಣ ಇದೆಯಾ?",
+        "tr_simple": "huuvu sanna ideyaa?"
+      },
+      {
+        "en": "Your flower looks small.",
+        "hi": "आपका फूल छोटा लगता है।",
+        "kn": "ನಿಮ್ಮ ಹೂವು ಸಣ್ಣ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma huuvu sanna kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_003",
+    "en": "new",
+    "hi": "नया",
+    "kn": "ಹೊಸ",
+    "tr_simple": "hosa",
+    "examples": [
+      {
+        "en": "The paper is new.",
+        "hi": "कागज़ नया है।",
+        "kn": "ಕಾಗದ ಹೊಸ ಆಗಿದೆ.",
+        "tr_simple": "kaagada hosa aagide."
+      },
+      {
+        "en": "This paper is very new.",
+        "hi": "यह कागज़ बहुत नया है।",
+        "kn": "ಈ ಕಾಗದ ತುಂಬಾ ಹೊಸ.",
+        "tr_simple": "ii kaagada tumbaa hosa."
+      },
+      {
+        "en": "A new paper is here.",
+        "hi": "एक नया कागज़ यहाँ है।",
+        "kn": "ಒಂದು ಹೊಸ ಕಾಗದ ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu hosa kaagada illi ide."
+      },
+      {
+        "en": "Is the paper new?",
+        "hi": "क्या कागज़ नया है?",
+        "kn": "ಕಾಗದ ಹೊಸ ಇದೆಯಾ?",
+        "tr_simple": "kaagada hosa ideyaa?"
+      },
+      {
+        "en": "Your paper looks new.",
+        "hi": "आपका कागज़ नया लगता है।",
+        "kn": "ನಿಮ್ಮ ಕಾಗದ ಹೊಸ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma kaagada hosa kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_004",
+    "en": "old",
+    "hi": "पुराना",
+    "kn": "ಹಳೆಯ",
+    "tr_simple": "haleya",
+    "examples": [
+      {
+        "en": "The bread is old.",
+        "hi": "रोटी पुराना है।",
+        "kn": "ರೊಟ್ಟಿ ಹಳೆಯ ಆಗಿದೆ.",
+        "tr_simple": "rotti haleya aagide."
+      },
+      {
+        "en": "This bread is very old.",
+        "hi": "यह रोटी बहुत पुराना है।",
+        "kn": "ಈ ರೊಟ್ಟಿ ತುಂಬಾ ಹಳೆಯ.",
+        "tr_simple": "ii rotti tumbaa haleya."
+      },
+      {
+        "en": "A old bread is here.",
+        "hi": "एक पुराना रोटी यहाँ है।",
+        "kn": "ಒಂದು ಹಳೆಯ ರೊಟ್ಟಿ ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu haleya rotti illi ide."
+      },
+      {
+        "en": "Is the bread old?",
+        "hi": "क्या रोटी पुराना है?",
+        "kn": "ರೊಟ್ಟಿ ಹಳೆಯ ಇದೆಯಾ?",
+        "tr_simple": "rotti haleya ideyaa?"
+      },
+      {
+        "en": "Your bread looks old.",
+        "hi": "आपका रोटी पुराना लगता है।",
+        "kn": "ನಿಮ್ಮ ರೊಟ್ಟಿ ಹಳೆಯ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma rotti haleya kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_005",
+    "en": "good",
+    "hi": "अच्छा",
+    "kn": "ಒಳ್ಳೆ",
+    "tr_simple": "olle",
+    "examples": [
+      {
+        "en": "The server is good.",
+        "hi": "सर्वर अच्छा है।",
+        "kn": "ಸರ್ವರ್ ಒಳ್ಳೆ ಆಗಿದೆ.",
+        "tr_simple": "sarvar olle aagide."
+      },
+      {
+        "en": "This server is very good.",
+        "hi": "यह सर्वर बहुत अच्छा है।",
+        "kn": "ಈ ಸರ್ವರ್ ತುಂಬಾ ಒಳ್ಳೆ.",
+        "tr_simple": "ii sarvar tumbaa olle."
+      },
+      {
+        "en": "A good server is here.",
+        "hi": "एक अच्छा सर्वर यहाँ है।",
+        "kn": "ಒಂದು ಒಳ್ಳೆ ಸರ್ವರ್ ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu olle sarvar illi ide."
+      },
+      {
+        "en": "Is the server good?",
+        "hi": "क्या सर्वर अच्छा है?",
+        "kn": "ಸರ್ವರ್ ಒಳ್ಳೆ ಇದೆಯಾ?",
+        "tr_simple": "sarvar olle ideyaa?"
+      },
+      {
+        "en": "Your server looks good.",
+        "hi": "आपका सर्वर अच्छा लगता है।",
+        "kn": "ನಿಮ್ಮ ಸರ್ವರ್ ಒಳ್ಳೆ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma sarvar olle kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_006",
+    "en": "bad",
+    "hi": "बुरा",
+    "kn": "ಕೆಟ್ಟ",
+    "tr_simple": "ketta",
+    "examples": [
+      {
+        "en": "The river is bad.",
+        "hi": "नदी बुरा है।",
+        "kn": "ನದಿ ಕೆಟ್ಟ ಆಗಿದೆ.",
+        "tr_simple": "nadi ketta aagide."
+      },
+      {
+        "en": "This river is very bad.",
+        "hi": "यह नदी बहुत बुरा है।",
+        "kn": "ಈ ನದಿ ತುಂಬಾ ಕೆಟ್ಟ.",
+        "tr_simple": "ii nadi tumbaa ketta."
+      },
+      {
+        "en": "A bad river is here.",
+        "hi": "एक बुरा नदी यहाँ है।",
+        "kn": "ಒಂದು ಕೆಟ್ಟ ನದಿ ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu ketta nadi illi ide."
+      },
+      {
+        "en": "Is the river bad?",
+        "hi": "क्या नदी बुरा है?",
+        "kn": "ನದಿ ಕೆಟ್ಟ ಇದೆಯಾ?",
+        "tr_simple": "nadi ketta ideyaa?"
+      },
+      {
+        "en": "Your river looks bad.",
+        "hi": "आपका नदी बुरा लगता है।",
+        "kn": "ನಿಮ್ಮ ನದಿ ಕೆಟ್ಟ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma nadi ketta kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_007",
+    "en": "beautiful",
+    "hi": "सुंदर",
+    "kn": "ಸುಂದರ",
+    "tr_simple": "sumdara",
+    "examples": [
+      {
+        "en": "The book is beautiful.",
+        "hi": "किताब सुंदर है।",
+        "kn": "ಪುಸ್ತಕ ಸುಂದರ ಆಗಿದೆ.",
+        "tr_simple": "pustaka sumdara aagide."
+      },
+      {
+        "en": "This book is very beautiful.",
+        "hi": "यह किताब बहुत सुंदर है।",
+        "kn": "ಈ ಪುಸ್ತಕ ತುಂಬಾ ಸುಂದರ.",
+        "tr_simple": "ii pustaka tumbaa sumdara."
+      },
+      {
+        "en": "A beautiful book is here.",
+        "hi": "एक सुंदर किताब यहाँ है।",
+        "kn": "ಒಂದು ಸುಂದರ ಪುಸ್ತಕ ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu sumdara pustaka illi ide."
+      },
+      {
+        "en": "Is the book beautiful?",
+        "hi": "क्या किताब सुंदर है?",
+        "kn": "ಪುಸ್ತಕ ಸುಂದರ ಇದೆಯಾ?",
+        "tr_simple": "pustaka sumdara ideyaa?"
+      },
+      {
+        "en": "Your book looks beautiful.",
+        "hi": "आपका किताब सुंदर लगता है।",
+        "kn": "ನಿಮ್ಮ ಪುಸ್ತಕ ಸುಂದರ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma pustaka sumdara kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_008",
+    "en": "cheap",
+    "hi": "सस्ता",
+    "kn": "ಅಗ್ಗ",
+    "tr_simple": "agga",
+    "examples": [
+      {
+        "en": "The temple is cheap.",
+        "hi": "मंदिर सस्ता है।",
+        "kn": "ದೇವಸ್ಥಾನ ಅಗ್ಗ ಆಗಿದೆ.",
+        "tr_simple": "deevasthaana agga aagide."
+      },
+      {
+        "en": "This temple is very cheap.",
+        "hi": "यह मंदिर बहुत सस्ता है।",
+        "kn": "ಈ ದೇವಸ್ಥಾನ ತುಂಬಾ ಅಗ್ಗ.",
+        "tr_simple": "ii deevasthaana tumbaa agga."
+      },
+      {
+        "en": "A cheap temple is here.",
+        "hi": "एक सस्ता मंदिर यहाँ है।",
+        "kn": "ಒಂದು ಅಗ್ಗ ದೇವಸ್ಥಾನ ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu agga deevasthaana illi ide."
+      },
+      {
+        "en": "Is the temple cheap?",
+        "hi": "क्या मंदिर सस्ता है?",
+        "kn": "ದೇವಸ್ಥಾನ ಅಗ್ಗ ಇದೆಯಾ?",
+        "tr_simple": "deevasthaana agga ideyaa?"
+      },
+      {
+        "en": "Your temple looks cheap.",
+        "hi": "आपका मंदिर सस्ता लगता है।",
+        "kn": "ನಿಮ್ಮ ದೇವಸ್ಥಾನ ಅಗ್ಗ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma deevasthaana agga kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_009",
+    "en": "expensive",
+    "hi": "महंगा",
+    "kn": "ದುಬಾರಿ",
+    "tr_simple": "dubaari",
+    "examples": [
+      {
+        "en": "The tea is expensive.",
+        "hi": "चाय महंगा है।",
+        "kn": "ಚಹಾ ದುಬಾರಿ ಆಗಿದೆ.",
+        "tr_simple": "chahaa dubaari aagide."
+      },
+      {
+        "en": "This tea is very expensive.",
+        "hi": "यह चाय बहुत महंगा है।",
+        "kn": "ಈ ಚಹಾ ತುಂಬಾ ದುಬಾರಿ.",
+        "tr_simple": "ii chahaa tumbaa dubaari."
+      },
+      {
+        "en": "A expensive tea is here.",
+        "hi": "एक महंगा चाय यहाँ है।",
+        "kn": "ಒಂದು ದುಬಾರಿ ಚಹಾ ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu dubaari chahaa illi ide."
+      },
+      {
+        "en": "Is the tea expensive?",
+        "hi": "क्या चाय महंगा है?",
+        "kn": "ಚಹಾ ದುಬಾರಿ ಇದೆಯಾ?",
+        "tr_simple": "chahaa dubaari ideyaa?"
+      },
+      {
+        "en": "Your tea looks expensive.",
+        "hi": "आपका चाय महंगा लगता है।",
+        "kn": "ನಿಮ್ಮ ಚಹಾ ದುಬಾರಿ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma chahaa dubaari kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_010",
+    "en": "hot",
+    "hi": "गर्म",
+    "kn": "ಬಿಸಿ",
+    "tr_simple": "bisi",
+    "examples": [
+      {
+        "en": "The bus is hot.",
+        "hi": "बस गर्म है।",
+        "kn": "ಬಸ್ ಬಿಸಿ ಆಗಿದೆ.",
+        "tr_simple": "bas bisi aagide."
+      },
+      {
+        "en": "This bus is very hot.",
+        "hi": "यह बस बहुत गर्म है।",
+        "kn": "ಈ ಬಸ್ ತುಂಬಾ ಬಿಸಿ.",
+        "tr_simple": "ii bas tumbaa bisi."
+      },
+      {
+        "en": "A hot bus is here.",
+        "hi": "एक गर्म बस यहाँ है।",
+        "kn": "ಒಂದು ಬಿಸಿ ಬಸ್ ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu bisi bas illi ide."
+      },
+      {
+        "en": "Is the bus hot?",
+        "hi": "क्या बस गर्म है?",
+        "kn": "ಬಸ್ ಬಿಸಿ ಇದೆಯಾ?",
+        "tr_simple": "bas bisi ideyaa?"
+      },
+      {
+        "en": "Your bus looks hot.",
+        "hi": "आपका बस गर्म लगता है।",
+        "kn": "ನಿಮ್ಮ ಬಸ್ ಬಿಸಿ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma bas bisi kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_011",
+    "en": "cold",
+    "hi": "ठंडा",
+    "kn": "ತಂಪು",
+    "tr_simple": "tampu",
+    "examples": [
+      {
+        "en": "The airport is cold.",
+        "hi": "हवाई अड्डा ठंडा है।",
+        "kn": "ವಿಮಾನ ನಿಲ್ದಾಣ ತಂಪು ಆಗಿದೆ.",
+        "tr_simple": "vimaana nildaana tampu aagide."
+      },
+      {
+        "en": "This airport is very cold.",
+        "hi": "यह हवाई अड्डा बहुत ठंडा है।",
+        "kn": "ಈ ವಿಮಾನ ನಿಲ್ದಾಣ ತುಂಬಾ ತಂಪು.",
+        "tr_simple": "ii vimaana nildaana tumbaa tampu."
+      },
+      {
+        "en": "A cold airport is here.",
+        "hi": "एक ठंडा हवाई अड्डा यहाँ है।",
+        "kn": "ಒಂದು ತಂಪು ವಿಮಾನ ನಿಲ್ದಾಣ ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu tampu vimaana nildaana illi ide."
+      },
+      {
+        "en": "Is the airport cold?",
+        "hi": "क्या हवाई अड्डा ठंडा है?",
+        "kn": "ವಿಮಾನ ನಿಲ್ದಾಣ ತಂಪು ಇದೆಯಾ?",
+        "tr_simple": "vimaana nildaana tampu ideyaa?"
+      },
+      {
+        "en": "Your airport looks cold.",
+        "hi": "आपका हवाई अड्डा ठंडा लगता है।",
+        "kn": "ನಿಮ್ಮ ವಿಮಾನ ನಿಲ್ದಾಣ ತಂಪು ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma vimaana nildaana tampu kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_012",
+    "en": "clean",
+    "hi": "साफ़",
+    "kn": "ಸ್ವಚ್ಛ",
+    "tr_simple": "svachchha",
+    "examples": [
+      {
+        "en": "The station is clean.",
+        "hi": "स्टेशन साफ़ है।",
+        "kn": "ನಿಲ್ದಾಣ ಸ್ವಚ್ಛ ಆಗಿದೆ.",
+        "tr_simple": "nildaana svachchha aagide."
+      },
+      {
+        "en": "This station is very clean.",
+        "hi": "यह स्टेशन बहुत साफ़ है।",
+        "kn": "ಈ ನಿಲ್ದಾಣ ತುಂಬಾ ಸ್ವಚ್ಛ.",
+        "tr_simple": "ii nildaana tumbaa svachchha."
+      },
+      {
+        "en": "A clean station is here.",
+        "hi": "एक साफ़ स्टेशन यहाँ है।",
+        "kn": "ಒಂದು ಸ್ವಚ್ಛ ನಿಲ್ದಾಣ ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu svachchha nildaana illi ide."
+      },
+      {
+        "en": "Is the station clean?",
+        "hi": "क्या स्टेशन साफ़ है?",
+        "kn": "ನಿಲ್ದಾಣ ಸ್ವಚ್ಛ ಇದೆಯಾ?",
+        "tr_simple": "nildaana svachchha ideyaa?"
+      },
+      {
+        "en": "Your station looks clean.",
+        "hi": "आपका स्टेशन साफ़ लगता है।",
+        "kn": "ನಿಮ್ಮ ನಿಲ್ದಾಣ ಸ್ವಚ್ಛ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma nildaana svachchha kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_013",
+    "en": "dirty",
+    "hi": "गंदा",
+    "kn": "ಕೊಳಕು",
+    "tr_simple": "kolaku",
+    "examples": [
+      {
+        "en": "The dog is dirty.",
+        "hi": "कुत्ता गंदा है।",
+        "kn": "ನಾಯಿ ಕೊಳಕು ಆಗಿದೆ.",
+        "tr_simple": "naayi kolaku aagide."
+      },
+      {
+        "en": "This dog is very dirty.",
+        "hi": "यह कुत्ता बहुत गंदा है।",
+        "kn": "ಈ ನಾಯಿ ತುಂಬಾ ಕೊಳಕು.",
+        "tr_simple": "ii naayi tumbaa kolaku."
+      },
+      {
+        "en": "A dirty dog is here.",
+        "hi": "एक गंदा कुत्ता यहाँ है।",
+        "kn": "ಒಂದು ಕೊಳಕು ನಾಯಿ ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu kolaku naayi illi ide."
+      },
+      {
+        "en": "Is the dog dirty?",
+        "hi": "क्या कुत्ता गंदा है?",
+        "kn": "ನಾಯಿ ಕೊಳಕು ಇದೆಯಾ?",
+        "tr_simple": "naayi kolaku ideyaa?"
+      },
+      {
+        "en": "Your dog looks dirty.",
+        "hi": "आपका कुत्ता गंदा लगता है।",
+        "kn": "ನಿಮ್ಮ ನಾಯಿ ಕೊಳಕು ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma naayi kolaku kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_014",
+    "en": "heavy",
+    "hi": "भारी",
+    "kn": "ಭಾರಿ",
+    "tr_simple": "bhaari",
+    "examples": [
+      {
+        "en": "The hospital is heavy.",
+        "hi": "अस्पताल भारी है।",
+        "kn": "ಆಸ್ಪತ್ರೆ ಭಾರಿ ಆಗಿದೆ.",
+        "tr_simple": "aaspatre bhaari aagide."
+      },
+      {
+        "en": "This hospital is very heavy.",
+        "hi": "यह अस्पताल बहुत भारी है।",
+        "kn": "ಈ ಆಸ್ಪತ್ರೆ ತುಂಬಾ ಭಾರಿ.",
+        "tr_simple": "ii aaspatre tumbaa bhaari."
+      },
+      {
+        "en": "A heavy hospital is here.",
+        "hi": "एक भारी अस्पताल यहाँ है।",
+        "kn": "ಒಂದು ಭಾರಿ ಆಸ್ಪತ್ರೆ ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu bhaari aaspatre illi ide."
+      },
+      {
+        "en": "Is the hospital heavy?",
+        "hi": "क्या अस्पताल भारी है?",
+        "kn": "ಆಸ್ಪತ್ರೆ ಭಾರಿ ಇದೆಯಾ?",
+        "tr_simple": "aaspatre bhaari ideyaa?"
+      },
+      {
+        "en": "Your hospital looks heavy.",
+        "hi": "आपका अस्पताल भारी लगता है।",
+        "kn": "ನಿಮ್ಮ ಆಸ್ಪತ್ರೆ ಭಾರಿ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma aaspatre bhaari kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_015",
+    "en": "light",
+    "hi": "हल्का",
+    "kn": "ಹಗುರ",
+    "tr_simple": "hagura",
+    "examples": [
+      {
+        "en": "The oil is light.",
+        "hi": "तेल हल्का है।",
+        "kn": "ಎಣ್ಣೆ ಹಗುರ ಆಗಿದೆ.",
+        "tr_simple": "enne hagura aagide."
+      },
+      {
+        "en": "This oil is very light.",
+        "hi": "यह तेल बहुत हल्का है।",
+        "kn": "ಈ ಎಣ್ಣೆ ತುಂಬಾ ಹಗುರ.",
+        "tr_simple": "ii enne tumbaa hagura."
+      },
+      {
+        "en": "A light oil is here.",
+        "hi": "एक हल्का तेल यहाँ है।",
+        "kn": "ಒಂದು ಹಗುರ ಎಣ್ಣೆ ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu hagura enne illi ide."
+      },
+      {
+        "en": "Is the oil light?",
+        "hi": "क्या तेल हल्का है?",
+        "kn": "ಎಣ್ಣೆ ಹಗುರ ಇದೆಯಾ?",
+        "tr_simple": "enne hagura ideyaa?"
+      },
+      {
+        "en": "Your oil looks light.",
+        "hi": "आपका तेल हल्का लगता है।",
+        "kn": "ನಿಮ್ಮ ಎಣ್ಣೆ ಹಗುರ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma enne hagura kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_016",
+    "en": "fast",
+    "hi": "तेज",
+    "kn": "ವೇಗವಾದ",
+    "tr_simple": "veegavaada",
+    "examples": [
+      {
+        "en": "The train is fast.",
+        "hi": "ट्रेन तेज है।",
+        "kn": "ರೈಲು ವೇಗವಾದ ಆಗಿದೆ.",
+        "tr_simple": "railu veegavaada aagide."
+      },
+      {
+        "en": "This train is very fast.",
+        "hi": "यह ट्रेन बहुत तेज है।",
+        "kn": "ಈ ರೈಲು ತುಂಬಾ ವೇಗವಾದ.",
+        "tr_simple": "ii railu tumbaa veegavaada."
+      },
+      {
+        "en": "A fast train is here.",
+        "hi": "एक तेज ट्रेन यहाँ है।",
+        "kn": "ಒಂದು ವೇಗವಾದ ರೈಲು ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu veegavaada railu illi ide."
+      },
+      {
+        "en": "Is the train fast?",
+        "hi": "क्या ट्रेन तेज है?",
+        "kn": "ರೈಲು ವೇಗವಾದ ಇದೆಯಾ?",
+        "tr_simple": "railu veegavaada ideyaa?"
+      },
+      {
+        "en": "Your train looks fast.",
+        "hi": "आपका ट्रेन तेज लगता है।",
+        "kn": "ನಿಮ್ಮ ರೈಲು ವೇಗವಾದ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma railu veegavaada kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_017",
+    "en": "slow",
+    "hi": "धीमा",
+    "kn": "ನಿದಾನ",
+    "tr_simple": "nidaana",
+    "examples": [
+      {
+        "en": "The salt is slow.",
+        "hi": "नमक धीमा है।",
+        "kn": "ಉಪ್ಪು ನಿದಾನ ಆಗಿದೆ.",
+        "tr_simple": "uppu nidaana aagide."
+      },
+      {
+        "en": "This salt is very slow.",
+        "hi": "यह नमक बहुत धीमा है।",
+        "kn": "ಈ ಉಪ್ಪು ತುಂಬಾ ನಿದಾನ.",
+        "tr_simple": "ii uppu tumbaa nidaana."
+      },
+      {
+        "en": "A slow salt is here.",
+        "hi": "एक धीमा नमक यहाँ है।",
+        "kn": "ಒಂದು ನಿದಾನ ಉಪ್ಪು ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu nidaana uppu illi ide."
+      },
+      {
+        "en": "Is the salt slow?",
+        "hi": "क्या नमक धीमा है?",
+        "kn": "ಉಪ್ಪು ನಿದಾನ ಇದೆಯಾ?",
+        "tr_simple": "uppu nidaana ideyaa?"
+      },
+      {
+        "en": "Your salt looks slow.",
+        "hi": "आपका नमक धीमा लगता है।",
+        "kn": "ನಿಮ್ಮ ಉಪ್ಪು ನಿದಾನ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma uppu nidaana kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_018",
+    "en": "easy",
+    "hi": "आसान",
+    "kn": "ಸುಲಭ",
+    "tr_simple": "sulabha",
+    "examples": [
+      {
+        "en": "The file is easy.",
+        "hi": "फ़ाइल आसान है।",
+        "kn": "ಕಡತ ಸುಲಭ ಆಗಿದೆ.",
+        "tr_simple": "kadata sulabha aagide."
+      },
+      {
+        "en": "This file is very easy.",
+        "hi": "यह फ़ाइल बहुत आसान है।",
+        "kn": "ಈ ಕಡತ ತುಂಬಾ ಸುಲಭ.",
+        "tr_simple": "ii kadata tumbaa sulabha."
+      },
+      {
+        "en": "A easy file is here.",
+        "hi": "एक आसान फ़ाइल यहाँ है।",
+        "kn": "ಒಂದು ಸುಲಭ ಕಡತ ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu sulabha kadata illi ide."
+      },
+      {
+        "en": "Is the file easy?",
+        "hi": "क्या फ़ाइल आसान है?",
+        "kn": "ಕಡತ ಸುಲಭ ಇದೆಯಾ?",
+        "tr_simple": "kadata sulabha ideyaa?"
+      },
+      {
+        "en": "Your file looks easy.",
+        "hi": "आपका फ़ाइल आसान लगता है।",
+        "kn": "ನಿಮ್ಮ ಕಡತ ಸುಲಭ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma kadata sulabha kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_019",
+    "en": "difficult",
+    "hi": "कठिन",
+    "kn": "ಕಷ್ಟ",
+    "tr_simple": "kashta",
+    "examples": [
+      {
+        "en": "The glass is difficult.",
+        "hi": "गिलास कठिन है।",
+        "kn": "ಗ್ಲಾಸ್ ಕಷ್ಟ ಆಗಿದೆ.",
+        "tr_simple": "glaas kashta aagide."
+      },
+      {
+        "en": "This glass is very difficult.",
+        "hi": "यह गिलास बहुत कठिन है।",
+        "kn": "ಈ ಗ್ಲಾಸ್ ತುಂಬಾ ಕಷ್ಟ.",
+        "tr_simple": "ii glaas tumbaa kashta."
+      },
+      {
+        "en": "A difficult glass is here.",
+        "hi": "एक कठिन गिलास यहाँ है।",
+        "kn": "ಒಂದು ಕಷ್ಟ ಗ್ಲಾಸ್ ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu kashta glaas illi ide."
+      },
+      {
+        "en": "Is the glass difficult?",
+        "hi": "क्या गिलास कठिन है?",
+        "kn": "ಗ್ಲಾಸ್ ಕಷ್ಟ ಇದೆಯಾ?",
+        "tr_simple": "glaas kashta ideyaa?"
+      },
+      {
+        "en": "Your glass looks difficult.",
+        "hi": "आपका गिलास कठिन लगता है।",
+        "kn": "ನಿಮ್ಮ ಗ್ಲಾಸ್ ಕಷ್ಟ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma glaas kashta kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_020",
+    "en": "near",
+    "hi": "पास",
+    "kn": "ಹತ್ತಿರ",
+    "tr_simple": "hattira",
+    "examples": [
+      {
+        "en": "The paper is near.",
+        "hi": "कागज़ पास है।",
+        "kn": "ಕಾಗದ ಹತ್ತಿರ ಆಗಿದೆ.",
+        "tr_simple": "kaagada hattira aagide."
+      },
+      {
+        "en": "This paper is very near.",
+        "hi": "यह कागज़ बहुत पास है।",
+        "kn": "ಈ ಕಾಗದ ತುಂಬಾ ಹತ್ತಿರ.",
+        "tr_simple": "ii kaagada tumbaa hattira."
+      },
+      {
+        "en": "A near paper is here.",
+        "hi": "एक पास कागज़ यहाँ है।",
+        "kn": "ಒಂದು ಹತ್ತಿರ ಕಾಗದ ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu hattira kaagada illi ide."
+      },
+      {
+        "en": "Is the paper near?",
+        "hi": "क्या कागज़ पास है?",
+        "kn": "ಕಾಗದ ಹತ್ತಿರ ಇದೆಯಾ?",
+        "tr_simple": "kaagada hattira ideyaa?"
+      },
+      {
+        "en": "Your paper looks near.",
+        "hi": "आपका कागज़ पास लगता है।",
+        "kn": "ನಿಮ್ಮ ಕಾಗದ ಹತ್ತಿರ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma kaagada hattira kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_021",
+    "en": "far",
+    "hi": "दूर",
+    "kn": "ದೂರ",
+    "tr_simple": "duura",
+    "examples": [
+      {
+        "en": "The salt is far.",
+        "hi": "नमक दूर है।",
+        "kn": "ಉಪ್ಪು ದೂರ ಆಗಿದೆ.",
+        "tr_simple": "uppu duura aagide."
+      },
+      {
+        "en": "This salt is very far.",
+        "hi": "यह नमक बहुत दूर है।",
+        "kn": "ಈ ಉಪ್ಪು ತುಂಬಾ ದೂರ.",
+        "tr_simple": "ii uppu tumbaa duura."
+      },
+      {
+        "en": "A far salt is here.",
+        "hi": "एक दूर नमक यहाँ है।",
+        "kn": "ಒಂದು ದೂರ ಉಪ್ಪು ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu duura uppu illi ide."
+      },
+      {
+        "en": "Is the salt far?",
+        "hi": "क्या नमक दूर है?",
+        "kn": "ಉಪ್ಪು ದೂರ ಇದೆಯಾ?",
+        "tr_simple": "uppu duura ideyaa?"
+      },
+      {
+        "en": "Your salt looks far.",
+        "hi": "आपका नमक दूर लगता है।",
+        "kn": "ನಿಮ್ಮ ಉಪ್ಪು ದೂರ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma uppu duura kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_022",
+    "en": "early",
+    "hi": "जल्दी",
+    "kn": "ಬೇಗ",
+    "tr_simple": "beega",
+    "examples": [
+      {
+        "en": "The sun is early.",
+        "hi": "सूरज जल्दी है।",
+        "kn": "ಸೂರ್ಯ ಬೇಗ ಆಗಿದೆ.",
+        "tr_simple": "suurya beega aagide."
+      },
+      {
+        "en": "This sun is very early.",
+        "hi": "यह सूरज बहुत जल्दी है।",
+        "kn": "ಈ ಸೂರ್ಯ ತುಂಬಾ ಬೇಗ.",
+        "tr_simple": "ii suurya tumbaa beega."
+      },
+      {
+        "en": "A early sun is here.",
+        "hi": "एक जल्दी सूरज यहाँ है।",
+        "kn": "ಒಂದು ಬೇಗ ಸೂರ್ಯ ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu beega suurya illi ide."
+      },
+      {
+        "en": "Is the sun early?",
+        "hi": "क्या सूरज जल्दी है?",
+        "kn": "ಸೂರ್ಯ ಬೇಗ ಇದೆಯಾ?",
+        "tr_simple": "suurya beega ideyaa?"
+      },
+      {
+        "en": "Your sun looks early.",
+        "hi": "आपका सूरज जल्दी लगता है।",
+        "kn": "ನಿಮ್ಮ ಸೂರ್ಯ ಬೇಗ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma suurya beega kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_023",
+    "en": "late",
+    "hi": "देर",
+    "kn": "ತಡ",
+    "tr_simple": "tada",
+    "examples": [
+      {
+        "en": "The salt is late.",
+        "hi": "नमक देर है।",
+        "kn": "ಉಪ್ಪು ತಡ ಆಗಿದೆ.",
+        "tr_simple": "uppu tada aagide."
+      },
+      {
+        "en": "This salt is very late.",
+        "hi": "यह नमक बहुत देर है।",
+        "kn": "ಈ ಉಪ್ಪು ತುಂಬಾ ತಡ.",
+        "tr_simple": "ii uppu tumbaa tada."
+      },
+      {
+        "en": "A late salt is here.",
+        "hi": "एक देर नमक यहाँ है।",
+        "kn": "ಒಂದು ತಡ ಉಪ್ಪು ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu tada uppu illi ide."
+      },
+      {
+        "en": "Is the salt late?",
+        "hi": "क्या नमक देर है?",
+        "kn": "ಉಪ್ಪು ತಡ ಇದೆಯಾ?",
+        "tr_simple": "uppu tada ideyaa?"
+      },
+      {
+        "en": "Your salt looks late.",
+        "hi": "आपका नमक देर लगता है।",
+        "kn": "ನಿಮ್ಮ ಉಪ್ಪು ತಡ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma uppu tada kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_024",
+    "en": "ready",
+    "hi": "तैयार",
+    "kn": "ಸಿದ್ಧ",
+    "tr_simple": "siddha",
+    "examples": [
+      {
+        "en": "The cat is ready.",
+        "hi": "बिल्ली तैयार है।",
+        "kn": "ಬೆಕ್ಕು ಸಿದ್ಧ ಆಗಿದೆ.",
+        "tr_simple": "bekku siddha aagide."
+      },
+      {
+        "en": "This cat is very ready.",
+        "hi": "यह बिल्ली बहुत तैयार है।",
+        "kn": "ಈ ಬೆಕ್ಕು ತುಂಬಾ ಸಿದ್ಧ.",
+        "tr_simple": "ii bekku tumbaa siddha."
+      },
+      {
+        "en": "A ready cat is here.",
+        "hi": "एक तैयार बिल्ली यहाँ है।",
+        "kn": "ಒಂದು ಸಿದ್ಧ ಬೆಕ್ಕು ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu siddha bekku illi ide."
+      },
+      {
+        "en": "Is the cat ready?",
+        "hi": "क्या बिल्ली तैयार है?",
+        "kn": "ಬೆಕ್ಕು ಸಿದ್ಧ ಇದೆಯಾ?",
+        "tr_simple": "bekku siddha ideyaa?"
+      },
+      {
+        "en": "Your cat looks ready.",
+        "hi": "आपका बिल्ली तैयार लगता है।",
+        "kn": "ನಿಮ್ಮ ಬೆಕ್ಕು ಸಿದ್ಧ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma bekku siddha kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_025",
+    "en": "open",
+    "hi": "खुला",
+    "kn": "ತೆರೆದ",
+    "tr_simple": "tereda",
+    "examples": [
+      {
+        "en": "The email is open.",
+        "hi": "ईमेल खुला है।",
+        "kn": "ಇಮೇಲ್ ತೆರೆದ ಆಗಿದೆ.",
+        "tr_simple": "imeel tereda aagide."
+      },
+      {
+        "en": "This email is very open.",
+        "hi": "यह ईमेल बहुत खुला है।",
+        "kn": "ಈ ಇಮೇಲ್ ತುಂಬಾ ತೆರೆದ.",
+        "tr_simple": "ii imeel tumbaa tereda."
+      },
+      {
+        "en": "A open email is here.",
+        "hi": "एक खुला ईमेल यहाँ है।",
+        "kn": "ಒಂದು ತೆರೆದ ಇಮೇಲ್ ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu tereda imeel illi ide."
+      },
+      {
+        "en": "Is the email open?",
+        "hi": "क्या ईमेल खुला है?",
+        "kn": "ಇಮೇಲ್ ತೆರೆದ ಇದೆಯಾ?",
+        "tr_simple": "imeel tereda ideyaa?"
+      },
+      {
+        "en": "Your email looks open.",
+        "hi": "आपका ईमेल खुला लगता है।",
+        "kn": "ನಿಮ್ಮ ಇಮೇಲ್ ತೆರೆದ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma imeel tereda kaanuttade."
+      }
+    ]
+  },
+  {
+    "id": "adj_026",
+    "en": "closed",
+    "hi": "बंद",
+    "kn": "ಮುಚ್ಚಿದ",
+    "tr_simple": "muchchida",
+    "examples": [
+      {
+        "en": "The airport is closed.",
+        "hi": "हवाई अड्डा बंद है।",
+        "kn": "ವಿಮಾನ ನಿಲ್ದಾಣ ಮುಚ್ಚಿದ ಆಗಿದೆ.",
+        "tr_simple": "vimaana nildaana muchchida aagide."
+      },
+      {
+        "en": "This airport is very closed.",
+        "hi": "यह हवाई अड्डा बहुत बंद है।",
+        "kn": "ಈ ವಿಮಾನ ನಿಲ್ದಾಣ ತುಂಬಾ ಮುಚ್ಚಿದ.",
+        "tr_simple": "ii vimaana nildaana tumbaa muchchida."
+      },
+      {
+        "en": "A closed airport is here.",
+        "hi": "एक बंद हवाई अड्डा यहाँ है।",
+        "kn": "ಒಂದು ಮುಚ್ಚಿದ ವಿಮಾನ ನಿಲ್ದಾಣ ಇಲ್ಲಿ ಇದೆ.",
+        "tr_simple": "omdu muchchida vimaana nildaana illi ide."
+      },
+      {
+        "en": "Is the airport closed?",
+        "hi": "क्या हवाई अड्डा बंद है?",
+        "kn": "ವಿಮಾನ ನಿಲ್ದಾಣ ಮುಚ್ಚಿದ ಇದೆಯಾ?",
+        "tr_simple": "vimaana nildaana muchchida ideyaa?"
+      },
+      {
+        "en": "Your airport looks closed.",
+        "hi": "आपका हवाई अड्डा बंद लगता है।",
+        "kn": "ನಿಮ್ಮ ವಿಮಾನ ನಿಲ್ದಾಣ ಮುಚ್ಚಿದ ಕಾಣುತ್ತದೆ.",
+        "tr_simple": "nimma vimaana nildaana muchchida kaanuttade."
+      }
+    ]
+  }
+]

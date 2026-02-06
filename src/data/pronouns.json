@@ -1,0 +1,128 @@
+[
+  {
+    "id": "pro_001",
+    "en": "I",
+    "hi": "मैं",
+    "kn": "ನಾನು",
+    "tr_simple": "naanu",
+    "examples": [
+      {
+        "en": "I am here.",
+        "hi": "मैं यहाँ हूँ।",
+        "kn": "ನಾನು ಇಲ್ಲಿ ಇದ್ದೇನೆ.",
+        "tr_simple": "naanu illi iddeene."
+      },
+      {
+        "en": "I have a house.",
+        "hi": "मैं के पास घर है।",
+        "kn": "ನಾನು ಬಳಿ ಮನೆ ಇದೆ.",
+        "tr_simple": "naanu bali mane ide."
+      }
+    ]
+  },
+  {
+    "id": "pro_002",
+    "en": "you",
+    "hi": "आप",
+    "kn": "ನೀವು",
+    "tr_simple": "niivu",
+    "examples": [
+      {
+        "en": "You am here.",
+        "hi": "आप यहाँ हूँ।",
+        "kn": "ನೀವು ಇಲ್ಲಿ ಇದ್ದೇನೆ.",
+        "tr_simple": "niivu illi iddeene."
+      },
+      {
+        "en": "You have a house.",
+        "hi": "आप के पास घर है।",
+        "kn": "ನೀವು ಬಳಿ ಮನೆ ಇದೆ.",
+        "tr_simple": "niivu bali mane ide."
+      }
+    ]
+  },
+  {
+    "id": "pro_003",
+    "en": "he",
+    "hi": "वह",
+    "kn": "ಅವನು",
+    "tr_simple": "avanu",
+    "examples": [
+      {
+        "en": "He am here.",
+        "hi": "वह यहाँ हूँ।",
+        "kn": "ಅವನು ಇಲ್ಲಿ ಇದ್ದೇನೆ.",
+        "tr_simple": "avanu illi iddeene."
+      },
+      {
+        "en": "He have a house.",
+        "hi": "वह के पास घर है।",
+        "kn": "ಅವನು ಬಳಿ ಮನೆ ಇದೆ.",
+        "tr_simple": "avanu bali mane ide."
+      }
+    ]
+  },
+  {
+    "id": "pro_004",
+    "en": "she",
+    "hi": "वह",
+    "kn": "ಅವಳು",
+    "tr_simple": "avalu",
+    "examples": [
+      {
+        "en": "She am here.",
+        "hi": "वह यहाँ हूँ।",
+        "kn": "ಅವಳು ಇಲ್ಲಿ ಇದ್ದೇನೆ.",
+        "tr_simple": "avalu illi iddeene."
+      },
+      {
+        "en": "She have a house.",
+        "hi": "वह के पास घर है।",
+        "kn": "ಅವಳು ಬಳಿ ಮನೆ ಇದೆ.",
+        "tr_simple": "avalu bali mane ide."
+      }
+    ]
+  },
+  {
+    "id": "pro_005",
+    "en": "we",
+    "hi": "हम",
+    "kn": "ನಾವು",
+    "tr_simple": "naavu",
+    "examples": [
+      {
+        "en": "We am here.",
+        "hi": "हम यहाँ हूँ।",
+        "kn": "ನಾವು ಇಲ್ಲಿ ಇದ್ದೇನೆ.",
+        "tr_simple": "naavu illi iddeene."
+      },
+      {
+        "en": "We have a house.",
+        "hi": "हम के पास घर है।",
+        "kn": "ನಾವು ಬಳಿ ಮನೆ ಇದೆ.",
+        "tr_simple": "naavu bali mane ide."
+      }
+    ]
+  },
+  {
+    "id": "pro_006",
+    "en": "they",
+    "hi": "वे",
+    "kn": "ಅವರು",
+    "tr_simple": "avaru",
+    "examples": [
+      {
+        "en": "They am here.",
+        "hi": "वे यहाँ हूँ।",
+        "kn": "ಅವರು ಇಲ್ಲಿ ಇದ್ದೇನೆ.",
+        "tr_simple": "avaru illi iddeene."
+      },
+      {
+        "en": "They have a house.",
+        "hi": "वे के पास घर है।",
+        "kn": "ಅವರು ಬಳಿ ಮನೆ ಇದೆ.",
+        "tr_simple": "avaru bali mane ide."
+      }
+    ]
+  }
+]

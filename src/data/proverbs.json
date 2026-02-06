@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "pv_001",
+    "en": "Focus leads to respect.",
+    "hi": "एकाग्रता की ओर ले जाती है सम्मान।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ಕರೆದೊಯ್ಯುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "keemdriikarana karedoyyuttade gaurava."
+  },
+  {
+    "id": "pv_002",
+    "en": "Focus protects strength.",
+    "hi": "एकाग्रता सुरक्षित रखती है शक्ति।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ರಕ್ಷಿಸುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "keemdriikarana rakshisuttade shakti."
+  },
+  {
+    "id": "pv_003",
+    "en": "Kindness protects strength.",
+    "hi": "दयालुता सुरक्षित रखती है शक्ति।",
+    "kn": "ದಯೆ ರಕ್ಷಿಸುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "daye rakshisuttade shakti."
+  },
+  {
+    "id": "pv_004",
+    "en": "Time brings strength.",
+    "hi": "समय लाती है शक्ति।",
+    "kn": "ಸಮಯ ತರುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "samaya taruttade shakti."
+  },
+  {
+    "id": "pv_005",
+    "en": "Knowledge protects peace.",
+    "hi": "ज्ञान सुरक्षित रखती है शांति।",
+    "kn": "ಜ್ಞಾನ ರಕ್ಷಿಸುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "jnaana rakshisuttade shaamti."
+  },
+  {
+    "id": "pv_006",
+    "en": "Focus brings peace.",
+    "hi": "एकाग्रता लाती है शांति।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ತರುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "keemdriikarana taruttade shaamti."
+  },
+  {
+    "id": "pv_007",
+    "en": "Time brings respect.",
+    "hi": "समय लाती है सम्मान।",
+    "kn": "ಸಮಯ ತರುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "samaya taruttade gaurava."
+  },
+  {
+    "id": "pv_008",
+    "en": "Courage protects strength.",
+    "hi": "साहस सुरक्षित रखती है शक्ति।",
+    "kn": "ಧೈರ್ಯ ರಕ್ಷಿಸುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "dhairya rakshisuttade shakti."
+  },
+  {
+    "id": "pv_009",
+    "en": "Honesty leads to clarity.",
+    "hi": "ईमानदारी की ओर ले जाती है स्पष्टता।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ಕರೆದೊಯ್ಯುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "praamaanikate karedoyyuttade spashtate."
+  },
+  {
+    "id": "pv_010",
+    "en": "Kindness guides success.",
+    "hi": "दयालुता मार्गदर्शन करती है सफलता।",
+    "kn": "ದಯೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "daye maargadarshana maaduttade yashassu."
+  },
+  {
+    "id": "pv_011",
+    "en": "Health leads to clarity.",
+    "hi": "स्वास्थ्य की ओर ले जाती है स्पष्टता।",
+    "kn": "ಆರೋಗ್ಯ ಕರೆದೊಯ್ಯುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "aaroogya karedoyyuttade spashtate."
+  },
+  {
+    "id": "pv_012",
+    "en": "Honesty leads to strength.",
+    "hi": "ईमानदारी की ओर ले जाती है शक्ति।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ಕರೆದೊಯ್ಯುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "praamaanikate karedoyyuttade shakti."
+  },
+  {
+    "id": "pv_013",
+    "en": "Courage builds peace.",
+    "hi": "साहस बनाती है शांति।",
+    "kn": "ಧೈರ್ಯ ನಿರ್ಮಿಸುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "dhairya nirmisuttade shaamti."
+  },
+  {
+    "id": "pv_014",
+    "en": "Kindness guides strength.",
+    "hi": "दयालुता मार्गदर्शन करती है शक्ति।",
+    "kn": "ದಯೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "daye maargadarshana maaduttade shakti."
+  },
+  {
+    "id": "pv_015",
+    "en": "Practice guides strength.",
+    "hi": "अभ्यास मार्गदर्शन करती है शक्ति।",
+    "kn": "ಅಭ್ಯಾಸ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "abhyaasa maargadarshana maaduttade shakti."
+  },
+  {
+    "id": "pv_016",
+    "en": "Practice brings peace.",
+    "hi": "अभ्यास लाती है शांति।",
+    "kn": "ಅಭ್ಯಾಸ ತರುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "abhyaasa taruttade shaamti."
+  },
+  {
+    "id": "pv_017",
+    "en": "Patience brings respect.",
+    "hi": "ಧೈರ್ಯ लाती है सम्मान।",
+    "kn": "ಸಹನೆ ತರುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "sahane taruttade gaurava."
+  },
+  {
+    "id": "pv_018",
+    "en": "Patience brings peace.",
+    "hi": "ಧೈರ್ಯ लाती है शांति।",
+    "kn": "ಸಹನೆ ತರುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "sahane taruttade shaamti."
+  },
+  {
+    "id": "pv_019",
+    "en": "Practice protects respect.",
+    "hi": "अभ्यास सुरक्षित रखती है सम्मान।",
+    "kn": "ಅಭ್ಯಾಸ ರಕ್ಷಿಸುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "abhyaasa rakshisuttade gaurava."
+  },
+  {
+    "id": "pv_020",
+    "en": "Focus leads to success.",
+    "hi": "एकाग्रता की ओर ले जाती है सफलता।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ಕರೆದೊಯ್ಯುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "keemdriikarana karedoyyuttade yashassu."
+  },
+  {
+    "id": "pv_021",
+    "en": "Time leads to clarity.",
+    "hi": "समय की ओर ले जाती है स्पष्टता।",
+    "kn": "ಸಮಯ ಕರೆದೊಯ್ಯುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "samaya karedoyyuttade spashtate."
+  },
+  {
+    "id": "pv_022",
+    "en": "Patience leads to respect.",
+    "hi": "ಧೈರ್ಯ की ओर ले जाती है सम्मान।",
+    "kn": "ಸಹನೆ ಕರೆದೊಯ್ಯುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "sahane karedoyyuttade gaurava."
+  },
+  {
+    "id": "pv_023",
+    "en": "Kindness guides success.",
+    "hi": "दयालुता मार्गदर्शन करती है सफलता।",
+    "kn": "ದಯೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "daye maargadarshana maaduttade yashassu."
+  },
+  {
+    "id": "pv_024",
+    "en": "Discipline protects success.",
+    "hi": "अनुशासन सुरक्षित रखती है सफलता।",
+    "kn": "ಶಿಸ್ತ್ ರಕ್ಷಿಸುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "shist rakshisuttade yashassu."
+  },
+  {
+    "id": "pv_025",
+    "en": "Honesty brings strength.",
+    "hi": "ईमानदारी लाती है शक्ति।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ತರುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "praamaanikate taruttade shakti."
+  },
+  {
+    "id": "pv_026",
+    "en": "Patience leads to strength.",
+    "hi": "ಧೈರ್ಯ की ओर ले जाती है शक्ति।",
+    "kn": "ಸಹನೆ ಕರೆದೊಯ್ಯುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "sahane karedoyyuttade shakti."
+  },
+  {
+    "id": "pv_027",
+    "en": "Knowledge builds success.",
+    "hi": "ज्ञान बनाती है सफलता।",
+    "kn": "ಜ್ಞಾನ ನಿರ್ಮಿಸುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "jnaana nirmisuttade yashassu."
+  },
+  {
+    "id": "pv_028",
+    "en": "Time builds success.",
+    "hi": "समय बनाती है सफलता।",
+    "kn": "ಸಮಯ ನಿರ್ಮಿಸುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "samaya nirmisuttade yashassu."
+  },
+  {
+    "id": "pv_029",
+    "en": "Discipline leads to success.",
+    "hi": "अनुशासन की ओर ले जाती है सफलता।",
+    "kn": "ಶಿಸ್ತ್ ಕರೆದೊಯ್ಯುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "shist karedoyyuttade yashassu."
+  },
+  {
+    "id": "pv_030",
+    "en": "Health brings clarity.",
+    "hi": "स्वास्थ्य लाती है स्पष्टता।",
+    "kn": "ಆರೋಗ್ಯ ತರುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "aaroogya taruttade spashtate."
+  },
+  {
+    "id": "pv_031",
+    "en": "Kindness leads to clarity.",
+    "hi": "दयालुता की ओर ले जाती है स्पष्टता।",
+    "kn": "ದಯೆ ಕರೆದೊಯ್ಯುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "daye karedoyyuttade spashtate."
+  },
+  {
+    "id": "pv_032",
+    "en": "Practice guides peace.",
+    "hi": "अभ्यास मार्गदर्शन करती है शांति।",
+    "kn": "ಅಭ್ಯಾಸ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "abhyaasa maargadarshana maaduttade shaamti."
+  },
+  {
+    "id": "pv_033",
+    "en": "Focus protects clarity.",
+    "hi": "एकाग्रता सुरक्षित रखती है स्पष्टता।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ರಕ್ಷಿಸುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "keemdriikarana rakshisuttade spashtate."
+  },
+  {
+    "id": "pv_034",
+    "en": "Health guides peace.",
+    "hi": "स्वास्थ्य मार्गदर्शन करती है शांति।",
+    "kn": "ಆರೋಗ್ಯ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "aaroogya maargadarshana maaduttade shaamti."
+  },
+  {
+    "id": "pv_035",
+    "en": "Honesty builds strength.",
+    "hi": "ईमानदारी बनाती है शक्ति।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ನಿರ್ಮಿಸುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "praamaanikate nirmisuttade shakti."
+  },
+  {
+    "id": "pv_036",
+    "en": "Focus brings strength.",
+    "hi": "एकाग्रता लाती है शक्ति।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ತರುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "keemdriikarana taruttade shakti."
+  },
+  {
+    "id": "pv_037",
+    "en": "Courage leads to success.",
+    "hi": "साहस की ओर ले जाती है सफलता।",
+    "kn": "ಧೈರ್ಯ ಕರೆದೊಯ್ಯುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "dhairya karedoyyuttade yashassu."
+  },
+  {
+    "id": "pv_038",
+    "en": "Time builds peace.",
+    "hi": "समय बनाती है शांति।",
+    "kn": "ಸಮಯ ನಿರ್ಮಿಸುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "samaya nirmisuttade shaamti."
+  },
+  {
+    "id": "pv_039",
+    "en": "Patience guides clarity.",
+    "hi": "ಧೈರ್ಯ मार्गदर्शन करती है स्पष्टता।",
+    "kn": "ಸಹನೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "sahane maargadarshana maaduttade spashtate."
+  },
+  {
+    "id": "pv_040",
+    "en": "Patience protects peace.",
+    "hi": "ಧೈರ್ಯ सुरक्षित रखती है शांति।",
+    "kn": "ಸಹನೆ ರಕ್ಷಿಸುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "sahane rakshisuttade shaamti."
+  },
+  {
+    "id": "pv_041",
+    "en": "Health builds success.",
+    "hi": "स्वास्थ्य बनाती है सफलता।",
+    "kn": "ಆರೋಗ್ಯ ನಿರ್ಮಿಸುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "aaroogya nirmisuttade yashassu."
+  },
+  {
+    "id": "pv_042",
+    "en": "Patience leads to strength.",
+    "hi": "ಧೈರ್ಯ की ओर ले जाती है शक्ति।",
+    "kn": "ಸಹನೆ ಕರೆದೊಯ್ಯುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "sahane karedoyyuttade shakti."
+  },
+  {
+    "id": "pv_043",
+    "en": "Honesty brings success.",
+    "hi": "ईमानदारी लाती है सफलता।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ತರುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "praamaanikate taruttade yashassu."
+  },
+  {
+    "id": "pv_044",
+    "en": "Focus guides clarity.",
+    "hi": "एकाग्रता मार्गदर्शन करती है स्पष्टता।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "keemdriikarana maargadarshana maaduttade spashtate."
+  },
+  {
+    "id": "pv_045",
+    "en": "Knowledge builds peace.",
+    "hi": "ज्ञान बनाती है शांति।",
+    "kn": "ಜ್ಞಾನ ನಿರ್ಮಿಸುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "jnaana nirmisuttade shaamti."
+  },
+  {
+    "id": "pv_046",
+    "en": "Patience brings strength.",
+    "hi": "ಧೈರ್ಯ लाती है शक्ति।",
+    "kn": "ಸಹನೆ ತರುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "sahane taruttade shakti."
+  },
+  {
+    "id": "pv_047",
+    "en": "Knowledge builds strength.",
+    "hi": "ज्ञान बनाती है शक्ति।",
+    "kn": "ಜ್ಞಾನ ನಿರ್ಮಿಸುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "jnaana nirmisuttade shakti."
+  },
+  {
+    "id": "pv_048",
+    "en": "Patience builds peace.",
+    "hi": "ಧೈರ್ಯ बनाती है शांति।",
+    "kn": "ಸಹನೆ ನಿರ್ಮಿಸುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "sahane nirmisuttade shaamti."
+  },
+  {
+    "id": "pv_049",
+    "en": "Discipline builds strength.",
+    "hi": "अनुशासन बनाती है शक्ति।",
+    "kn": "ಶಿಸ್ತ್ ನಿರ್ಮಿಸುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "shist nirmisuttade shakti."
+  },
+  {
+    "id": "pv_050",
+    "en": "Kindness builds strength.",
+    "hi": "दयालुता बनाती है शक्ति।",
+    "kn": "ದಯೆ ನಿರ್ಮಿಸುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "daye nirmisuttade shakti."
+  },
+  {
+    "id": "pv_051",
+    "en": "Kindness guides success.",
+    "hi": "दयालुता मार्गदर्शन करती है सफलता।",
+    "kn": "ದಯೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "daye maargadarshana maaduttade yashassu."
+  },
+  {
+    "id": "pv_052",
+    "en": "Discipline protects clarity.",
+    "hi": "अनुशासन सुरक्षित रखती है स्पष्टता।",
+    "kn": "ಶಿಸ್ತ್ ರಕ್ಷಿಸುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "shist rakshisuttade spashtate."
+  },
+  {
+    "id": "pv_053",
+    "en": "Time builds respect.",
+    "hi": "समय बनाती है सम्मान।",
+    "kn": "ಸಮಯ ನಿರ್ಮಿಸುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "samaya nirmisuttade gaurava."
+  },
+  {
+    "id": "pv_054",
+    "en": "Honesty guides peace.",
+    "hi": "ईमानदारी मार्गदर्शन करती है शांति।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "praamaanikate maargadarshana maaduttade shaamti."
+  },
+  {
+    "id": "pv_055",
+    "en": "Discipline brings clarity.",
+    "hi": "अनुशासन लाती है स्पष्टता।",
+    "kn": "ಶಿಸ್ತ್ ತರುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "shist taruttade spashtate."
+  },
+  {
+    "id": "pv_056",
+    "en": "Time brings peace.",
+    "hi": "समय लाती है शांति।",
+    "kn": "ಸಮಯ ತರುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "samaya taruttade shaamti."
+  },
+  {
+    "id": "pv_057",
+    "en": "Patience protects strength.",
+    "hi": "ಧೈರ್ಯ सुरक्षित रखती है शक्ति।",
+    "kn": "ಸಹನೆ ರಕ್ಷಿಸುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "sahane rakshisuttade shakti."
+  },
+  {
+    "id": "pv_058",
+    "en": "Honesty leads to respect.",
+    "hi": "ईमानदारी की ओर ले जाती है सम्मान।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ಕರೆದೊಯ್ಯುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "praamaanikate karedoyyuttade gaurava."
+  },
+  {
+    "id": "pv_059",
+    "en": "Honesty guides clarity.",
+    "hi": "ईमानदारी मार्गदर्शन करती है स्पष्टता।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "praamaanikate maargadarshana maaduttade spashtate."
+  },
+  {
+    "id": "pv_060",
+    "en": "Time protects clarity.",
+    "hi": "समय सुरक्षित रखती है स्पष्टता।",
+    "kn": "ಸಮಯ ರಕ್ಷಿಸುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "samaya rakshisuttade spashtate."
+  },
+  {
+    "id": "pv_061",
+    "en": "Health guides success.",
+    "hi": "स्वास्थ्य मार्गदर्शन करती है सफलता।",
+    "kn": "ಆರೋಗ್ಯ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "aaroogya maargadarshana maaduttade yashassu."
+  },
+  {
+    "id": "pv_062",
+    "en": "Discipline brings success.",
+    "hi": "अनुशासन लाती है सफलता।",
+    "kn": "ಶಿಸ್ತ್ ತರುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "shist taruttade yashassu."
+  },
+  {
+    "id": "pv_063",
+    "en": "Focus protects respect.",
+    "hi": "एकाग्रता सुरक्षित रखती है सम्मान।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ರಕ್ಷಿಸುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "keemdriikarana rakshisuttade gaurava."
+  },
+  {
+    "id": "pv_064",
+    "en": "Practice leads to respect.",
+    "hi": "अभ्यास की ओर ले जाती है सम्मान।",
+    "kn": "ಅಭ್ಯಾಸ ಕರೆದೊಯ್ಯುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "abhyaasa karedoyyuttade gaurava."
+  },
+  {
+    "id": "pv_065",
+    "en": "Practice builds respect.",
+    "hi": "अभ्यास बनाती है सम्मान।",
+    "kn": "ಅಭ್ಯಾಸ ನಿರ್ಮಿಸುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "abhyaasa nirmisuttade gaurava."
+  },
+  {
+    "id": "pv_066",
+    "en": "Practice brings strength.",
+    "hi": "अभ्यास लाती है शक्ति।",
+    "kn": "ಅಭ್ಯಾಸ ತರುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "abhyaasa taruttade shakti."
+  },
+  {
+    "id": "pv_067",
+    "en": "Discipline brings clarity.",
+    "hi": "अनुशासन लाती है स्पष्टता।",
+    "kn": "ಶಿಸ್ತ್ ತರುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "shist taruttade spashtate."
+  },
+  {
+    "id": "pv_068",
+    "en": "Patience builds success.",
+    "hi": "ಧೈರ್ಯ बनाती है सफलता।",
+    "kn": "ಸಹನೆ ನಿರ್ಮಿಸುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "sahane nirmisuttade yashassu."
+  },
+  {
+    "id": "pv_069",
+    "en": "Honesty builds strength.",
+    "hi": "ईमानदारी बनाती है शक्ति।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ನಿರ್ಮಿಸುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "praamaanikate nirmisuttade shakti."
+  },
+  {
+    "id": "pv_070",
+    "en": "Patience guides strength.",
+    "hi": "ಧೈರ್ಯ मार्गदर्शन करती है शक्ति।",
+    "kn": "ಸಹನೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "sahane maargadarshana maaduttade shakti."
+  },
+  {
+    "id": "pv_071",
+    "en": "Health brings respect.",
+    "hi": "स्वास्थ्य लाती है सम्मान।",
+    "kn": "ಆರೋಗ್ಯ ತರುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "aaroogya taruttade gaurava."
+  },
+  {
+    "id": "pv_072",
+    "en": "Kindness protects respect.",
+    "hi": "दयालुता सुरक्षित रखती है सम्मान।",
+    "kn": "ದಯೆ ರಕ್ಷಿಸುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "daye rakshisuttade gaurava."
+  },
+  {
+    "id": "pv_073",
+    "en": "Knowledge leads to strength.",
+    "hi": "ज्ञान की ओर ले जाती है शक्ति।",
+    "kn": "ಜ್ಞಾನ ಕರೆದೊಯ್ಯುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "jnaana karedoyyuttade shakti."
+  },
+  {
+    "id": "pv_074",
+    "en": "Discipline protects peace.",
+    "hi": "अनुशासन सुरक्षित रखती है शांति।",
+    "kn": "ಶಿಸ್ತ್ ರಕ್ಷಿಸುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "shist rakshisuttade shaamti."
+  },
+  {
+    "id": "pv_075",
+    "en": "Health builds strength.",
+    "hi": "स्वास्थ्य बनाती है शक्ति।",
+    "kn": "ಆರೋಗ್ಯ ನಿರ್ಮಿಸುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "aaroogya nirmisuttade shakti."
+  },
+  {
+    "id": "pv_076",
+    "en": "Courage protects success.",
+    "hi": "साहस सुरक्षित रखती है सफलता।",
+    "kn": "ಧೈರ್ಯ ರಕ್ಷಿಸುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "dhairya rakshisuttade yashassu."
+  },
+  {
+    "id": "pv_077",
+    "en": "Practice leads to success.",
+    "hi": "अभ्यास की ओर ले जाती है सफलता।",
+    "kn": "ಅಭ್ಯಾಸ ಕರೆದೊಯ್ಯುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "abhyaasa karedoyyuttade yashassu."
+  },
+  {
+    "id": "pv_078",
+    "en": "Time guides clarity.",
+    "hi": "समय मार्गदर्शन करती है स्पष्टता।",
+    "kn": "ಸಮಯ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "samaya maargadarshana maaduttade spashtate."
+  },
+  {
+    "id": "pv_079",
+    "en": "Discipline builds clarity.",
+    "hi": "अनुशासन बनाती है स्पष्टता।",
+    "kn": "ಶಿಸ್ತ್ ನಿರ್ಮಿಸುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "shist nirmisuttade spashtate."
+  },
+  {
+    "id": "pv_080",
+    "en": "Practice builds respect.",
+    "hi": "अभ्यास बनाती है सम्मान।",
+    "kn": "ಅಭ್ಯಾಸ ನಿರ್ಮಿಸುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "abhyaasa nirmisuttade gaurava."
+  },
+  {
+    "id": "pv_081",
+    "en": "Time protects respect.",
+    "hi": "समय सुरक्षित रखती है सम्मान।",
+    "kn": "ಸಮಯ ರಕ್ಷಿಸುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "samaya rakshisuttade gaurava."
+  },
+  {
+    "id": "pv_082",
+    "en": "Discipline protects strength.",
+    "hi": "अनुशासन सुरक्षित रखती है शक्ति।",
+    "kn": "ಶಿಸ್ತ್ ರಕ್ಷಿಸುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "shist rakshisuttade shakti."
+  },
+  {
+    "id": "pv_083",
+    "en": "Practice leads to clarity.",
+    "hi": "अभ्यास की ओर ले जाती है स्पष्टता।",
+    "kn": "ಅಭ್ಯಾಸ ಕರೆದೊಯ್ಯುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "abhyaasa karedoyyuttade spashtate."
+  },
+  {
+    "id": "pv_084",
+    "en": "Honesty protects respect.",
+    "hi": "ईमानदारी सुरक्षित रखती है सम्मान।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ರಕ್ಷಿಸುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "praamaanikate rakshisuttade gaurava."
+  },
+  {
+    "id": "pv_085",
+    "en": "Honesty protects strength.",
+    "hi": "ईमानदारी सुरक्षित रखती है शक्ति।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ರಕ್ಷಿಸುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "praamaanikate rakshisuttade shakti."
+  },
+  {
+    "id": "pv_086",
+    "en": "Patience brings clarity.",
+    "hi": "ಧೈರ್ಯ लाती है स्पष्टता।",
+    "kn": "ಸಹನೆ ತರುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "sahane taruttade spashtate."
+  },
+  {
+    "id": "pv_087",
+    "en": "Discipline protects respect.",
+    "hi": "अनुशासन सुरक्षित रखती है सम्मान।",
+    "kn": "ಶಿಸ್ತ್ ರಕ್ಷಿಸುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "shist rakshisuttade gaurava."
+  },
+  {
+    "id": "pv_088",
+    "en": "Time leads to strength.",
+    "hi": "समय की ओर ले जाती है शक्ति।",
+    "kn": "ಸಮಯ ಕರೆದೊಯ್ಯುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "samaya karedoyyuttade shakti."
+  },
+  {
+    "id": "pv_089",
+    "en": "Time leads to strength.",
+    "hi": "समय की ओर ले जाती है शक्ति।",
+    "kn": "ಸಮಯ ಕರೆದೊಯ್ಯುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "samaya karedoyyuttade shakti."
+  },
+  {
+    "id": "pv_090",
+    "en": "Health leads to strength.",
+    "hi": "स्वास्थ्य की ओर ले जाती है शक्ति।",
+    "kn": "ಆರೋಗ್ಯ ಕರೆದೊಯ್ಯುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "aaroogya karedoyyuttade shakti."
+  },
+  {
+    "id": "pv_091",
+    "en": "Practice brings respect.",
+    "hi": "अभ्यास लाती है सम्मान।",
+    "kn": "ಅಭ್ಯಾಸ ತರುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "abhyaasa taruttade gaurava."
+  },
+  {
+    "id": "pv_092",
+    "en": "Focus guides clarity.",
+    "hi": "एकाग्रता मार्गदर्शन करती है स्पष्टता।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "keemdriikarana maargadarshana maaduttade spashtate."
+  },
+  {
+    "id": "pv_093",
+    "en": "Knowledge builds strength.",
+    "hi": "ज्ञान बनाती है शक्ति।",
+    "kn": "ಜ್ಞಾನ ನಿರ್ಮಿಸುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "jnaana nirmisuttade shakti."
+  },
+  {
+    "id": "pv_094",
+    "en": "Patience builds clarity.",
+    "hi": "ಧೈರ್ಯ बनाती है स्पष्टता।",
+    "kn": "ಸಹನೆ ನಿರ್ಮಿಸುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "sahane nirmisuttade spashtate."
+  },
+  {
+    "id": "pv_095",
+    "en": "Courage protects success.",
+    "hi": "साहस सुरक्षित रखती है सफलता।",
+    "kn": "ಧೈರ್ಯ ರಕ್ಷಿಸುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "dhairya rakshisuttade yashassu."
+  },
+  {
+    "id": "pv_096",
+    "en": "Time brings respect.",
+    "hi": "समय लाती है सम्मान।",
+    "kn": "ಸಮಯ ತರುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "samaya taruttade gaurava."
+  },
+  {
+    "id": "pv_097",
+    "en": "Patience protects success.",
+    "hi": "ಧೈರ್ಯ सुरक्षित रखती है सफलता।",
+    "kn": "ಸಹನೆ ರಕ್ಷಿಸುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "sahane rakshisuttade yashassu."
+  },
+  {
+    "id": "pv_098",
+    "en": "Practice builds strength.",
+    "hi": "अभ्यास बनाती है शक्ति।",
+    "kn": "ಅಭ್ಯಾಸ ನಿರ್ಮಿಸುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "abhyaasa nirmisuttade shakti."
+  },
+  {
+    "id": "pv_099",
+    "en": "Focus guides strength.",
+    "hi": "एकाग्रता मार्गदर्शन करती है शक्ति।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "keemdriikarana maargadarshana maaduttade shakti."
+  },
+  {
+    "id": "pv_100",
+    "en": "Kindness leads to peace.",
+    "hi": "दयालुता की ओर ले जाती है शांति।",
+    "kn": "ದಯೆ ಕರೆದೊಯ್ಯುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "daye karedoyyuttade shaamti."
+  },
+  {
+    "id": "pv_101",
+    "en": "Patience guides respect.",
+    "hi": "ಧೈರ್ಯ मार्गदर्शन करती है सम्मान।",
+    "kn": "ಸಹನೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "sahane maargadarshana maaduttade gaurava."
+  },
+  {
+    "id": "pv_102",
+    "en": "Honesty protects strength.",
+    "hi": "ईमानदारी सुरक्षित रखती है शक्ति।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ರಕ್ಷಿಸುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "praamaanikate rakshisuttade shakti."
+  },
+  {
+    "id": "pv_103",
+    "en": "Patience leads to success.",
+    "hi": "ಧೈರ್ಯ की ओर ले जाती है सफलता।",
+    "kn": "ಸಹನೆ ಕರೆದೊಯ್ಯುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "sahane karedoyyuttade yashassu."
+  },
+  {
+    "id": "pv_104",
+    "en": "Patience brings success.",
+    "hi": "ಧೈರ್ಯ लाती है सफलता।",
+    "kn": "ಸಹನೆ ತರುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "sahane taruttade yashassu."
+  },
+  {
+    "id": "pv_105",
+    "en": "Knowledge protects success.",
+    "hi": "ज्ञान सुरक्षित रखती है सफलता।",
+    "kn": "ಜ್ಞಾನ ರಕ್ಷಿಸುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "jnaana rakshisuttade yashassu."
+  },
+  {
+    "id": "pv_106",
+    "en": "Focus builds success.",
+    "hi": "एकाग्रता बनाती है सफलता।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ನಿರ್ಮಿಸುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "keemdriikarana nirmisuttade yashassu."
+  },
+  {
+    "id": "pv_107",
+    "en": "Discipline builds peace.",
+    "hi": "अनुशासन बनाती है शांति।",
+    "kn": "ಶಿಸ್ತ್ ನಿರ್ಮಿಸುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "shist nirmisuttade shaamti."
+  },
+  {
+    "id": "pv_108",
+    "en": "Knowledge guides respect.",
+    "hi": "ज्ञान मार्गदर्शन करती है सम्मान।",
+    "kn": "ಜ್ಞಾನ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "jnaana maargadarshana maaduttade gaurava."
+  },
+  {
+    "id": "pv_109",
+    "en": "Discipline brings peace.",
+    "hi": "अनुशासन लाती है शांति।",
+    "kn": "ಶಿಸ್ತ್ ತರುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "shist taruttade shaamti."
+  },
+  {
+    "id": "pv_110",
+    "en": "Practice guides clarity.",
+    "hi": "अभ्यास मार्गदर्शन करती है स्पष्टता।",
+    "kn": "ಅಭ್ಯಾಸ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "abhyaasa maargadarshana maaduttade spashtate."
+  },
+  {
+    "id": "pv_111",
+    "en": "Practice guides clarity.",
+    "hi": "अभ्यास मार्गदर्शन करती है स्पष्टता।",
+    "kn": "ಅಭ್ಯಾಸ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "abhyaasa maargadarshana maaduttade spashtate."
+  },
+  {
+    "id": "pv_112",
+    "en": "Practice builds peace.",
+    "hi": "अभ्यास बनाती है शांति।",
+    "kn": "ಅಭ್ಯಾಸ ನಿರ್ಮಿಸುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "abhyaasa nirmisuttade shaamti."
+  },
+  {
+    "id": "pv_113",
+    "en": "Health protects respect.",
+    "hi": "स्वास्थ्य सुरक्षित रखती है सम्मान।",
+    "kn": "ಆರೋಗ್ಯ ರಕ್ಷಿಸುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "aaroogya rakshisuttade gaurava."
+  },
+  {
+    "id": "pv_114",
+    "en": "Health builds respect.",
+    "hi": "स्वास्थ्य बनाती है सम्मान।",
+    "kn": "ಆರೋಗ್ಯ ನಿರ್ಮಿಸುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "aaroogya nirmisuttade gaurava."
+  },
+  {
+    "id": "pv_115",
+    "en": "Discipline brings respect.",
+    "hi": "अनुशासन लाती है सम्मान।",
+    "kn": "ಶಿಸ್ತ್ ತರುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "shist taruttade gaurava."
+  },
+  {
+    "id": "pv_116",
+    "en": "Focus protects respect.",
+    "hi": "एकाग्रता सुरक्षित रखती है सम्मान।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ರಕ್ಷಿಸುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "keemdriikarana rakshisuttade gaurava."
+  },
+  {
+    "id": "pv_117",
+    "en": "Kindness brings success.",
+    "hi": "दयालुता लाती है सफलता।",
+    "kn": "ದಯೆ ತರುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "daye taruttade yashassu."
+  },
+  {
+    "id": "pv_118",
+    "en": "Patience builds strength.",
+    "hi": "ಧೈರ್ಯ बनाती है शक्ति।",
+    "kn": "ಸಹನೆ ನಿರ್ಮಿಸುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "sahane nirmisuttade shakti."
+  },
+  {
+    "id": "pv_119",
+    "en": "Kindness leads to peace.",
+    "hi": "दयालुता की ओर ले जाती है शांति।",
+    "kn": "ದಯೆ ಕರೆದೊಯ್ಯುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "daye karedoyyuttade shaamti."
+  },
+  {
+    "id": "pv_120",
+    "en": "Time guides strength.",
+    "hi": "समय मार्गदर्शन करती है शक्ति।",
+    "kn": "ಸಮಯ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "samaya maargadarshana maaduttade shakti."
+  },
+  {
+    "id": "pv_121",
+    "en": "Practice guides clarity.",
+    "hi": "अभ्यास मार्गदर्शन करती है स्पष्टता।",
+    "kn": "ಅಭ್ಯಾಸ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "abhyaasa maargadarshana maaduttade spashtate."
+  },
+  {
+    "id": "pv_122",
+    "en": "Courage brings clarity.",
+    "hi": "साहस लाती है स्पष्टता।",
+    "kn": "ಧೈರ್ಯ ತರುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "dhairya taruttade spashtate."
+  },
+  {
+    "id": "pv_123",
+    "en": "Focus leads to success.",
+    "hi": "एकाग्रता की ओर ले जाती है सफलता।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ಕರೆದೊಯ್ಯುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "keemdriikarana karedoyyuttade yashassu."
+  },
+  {
+    "id": "pv_124",
+    "en": "Time brings peace.",
+    "hi": "समय लाती है शांति।",
+    "kn": "ಸಮಯ ತರುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "samaya taruttade shaamti."
+  },
+  {
+    "id": "pv_125",
+    "en": "Knowledge guides peace.",
+    "hi": "ज्ञान मार्गदर्शन करती है शांति।",
+    "kn": "ಜ್ಞಾನ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "jnaana maargadarshana maaduttade shaamti."
+  },
+  {
+    "id": "pv_126",
+    "en": "Kindness builds peace.",
+    "hi": "दयालुता बनाती है शांति।",
+    "kn": "ದಯೆ ನಿರ್ಮಿಸುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "daye nirmisuttade shaamti."
+  },
+  {
+    "id": "pv_127",
+    "en": "Courage builds strength.",
+    "hi": "साहस बनाती है शक्ति।",
+    "kn": "ಧೈರ್ಯ ನಿರ್ಮಿಸುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "dhairya nirmisuttade shakti."
+  },
+  {
+    "id": "pv_128",
+    "en": "Focus leads to peace.",
+    "hi": "एकाग्रता की ओर ले जाती है शांति।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ಕರೆದೊಯ್ಯುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "keemdriikarana karedoyyuttade shaamti."
+  },
+  {
+    "id": "pv_129",
+    "en": "Patience builds clarity.",
+    "hi": "ಧೈರ್ಯ बनाती है स्पष्टता।",
+    "kn": "ಸಹನೆ ನಿರ್ಮಿಸುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "sahane nirmisuttade spashtate."
+  },
+  {
+    "id": "pv_130",
+    "en": "Honesty guides strength.",
+    "hi": "ईमानदारी मार्गदर्शन करती है शक्ति।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "praamaanikate maargadarshana maaduttade shakti."
+  },
+  {
+    "id": "pv_131",
+    "en": "Honesty guides strength.",
+    "hi": "ईमानदारी मार्गदर्शन करती है शक्ति।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "praamaanikate maargadarshana maaduttade shakti."
+  },
+  {
+    "id": "pv_132",
+    "en": "Kindness brings respect.",
+    "hi": "दयालुता लाती है सम्मान।",
+    "kn": "ದಯೆ ತರುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "daye taruttade gaurava."
+  },
+  {
+    "id": "pv_133",
+    "en": "Practice brings success.",
+    "hi": "अभ्यास लाती है सफलता।",
+    "kn": "ಅಭ್ಯಾಸ ತರುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "abhyaasa taruttade yashassu."
+  },
+  {
+    "id": "pv_134",
+    "en": "Knowledge guides clarity.",
+    "hi": "ज्ञान मार्गदर्शन करती है स्पष्टता।",
+    "kn": "ಜ್ಞಾನ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "jnaana maargadarshana maaduttade spashtate."
+  },
+  {
+    "id": "pv_135",
+    "en": "Focus guides respect.",
+    "hi": "एकाग्रता मार्गदर्शन करती है सम्मान।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "keemdriikarana maargadarshana maaduttade gaurava."
+  },
+  {
+    "id": "pv_136",
+    "en": "Courage guides clarity.",
+    "hi": "साहस मार्गदर्शन करती है स्पष्टता।",
+    "kn": "ಧೈರ್ಯ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "dhairya maargadarshana maaduttade spashtate."
+  },
+  {
+    "id": "pv_137",
+    "en": "Discipline builds clarity.",
+    "hi": "अनुशासन बनाती है स्पष्टता।",
+    "kn": "ಶಿಸ್ತ್ ನಿರ್ಮಿಸುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "shist nirmisuttade spashtate."
+  },
+  {
+    "id": "pv_138",
+    "en": "Practice brings clarity.",
+    "hi": "अभ्यास लाती है स्पष्टता।",
+    "kn": "ಅಭ್ಯಾಸ ತರುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "abhyaasa taruttade spashtate."
+  },
+  {
+    "id": "pv_139",
+    "en": "Honesty brings respect.",
+    "hi": "ईमानदारी लाती है सम्मान।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ತರುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "praamaanikate taruttade gaurava."
+  },
+  {
+    "id": "pv_140",
+    "en": "Focus guides peace.",
+    "hi": "एकाग्रता मार्गदर्शन करती है शांति।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "keemdriikarana maargadarshana maaduttade shaamti."
+  },
+  {
+    "id": "pv_141",
+    "en": "Honesty guides strength.",
+    "hi": "ईमानदारी मार्गदर्शन करती है शक्ति।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "praamaanikate maargadarshana maaduttade shakti."
+  },
+  {
+    "id": "pv_142",
+    "en": "Honesty builds success.",
+    "hi": "ईमानदारी बनाती है सफलता।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ನಿರ್ಮಿಸುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "praamaanikate nirmisuttade yashassu."
+  },
+  {
+    "id": "pv_143",
+    "en": "Discipline guides respect.",
+    "hi": "अनुशासन मार्गदर्शन करती है सम्मान।",
+    "kn": "ಶಿಸ್ತ್ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "shist maargadarshana maaduttade gaurava."
+  },
+  {
+    "id": "pv_144",
+    "en": "Courage builds success.",
+    "hi": "साहस बनाती है सफलता।",
+    "kn": "ಧೈರ್ಯ ನಿರ್ಮಿಸುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "dhairya nirmisuttade yashassu."
+  },
+  {
+    "id": "pv_145",
+    "en": "Health protects success.",
+    "hi": "स्वास्थ्य सुरक्षित रखती है सफलता।",
+    "kn": "ಆರೋಗ್ಯ ರಕ್ಷಿಸುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "aaroogya rakshisuttade yashassu."
+  },
+  {
+    "id": "pv_146",
+    "en": "Practice brings respect.",
+    "hi": "अभ्यास लाती है सम्मान।",
+    "kn": "ಅಭ್ಯಾಸ ತರುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "abhyaasa taruttade gaurava."
+  },
+  {
+    "id": "pv_147",
+    "en": "Knowledge brings strength.",
+    "hi": "ज्ञान लाती है शक्ति।",
+    "kn": "ಜ್ಞಾನ ತರುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "jnaana taruttade shakti."
+  },
+  {
+    "id": "pv_148",
+    "en": "Kindness protects clarity.",
+    "hi": "दयालुता सुरक्षित रखती है स्पष्टता।",
+    "kn": "ದಯೆ ರಕ್ಷಿಸುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "daye rakshisuttade spashtate."
+  },
+  {
+    "id": "pv_149",
+    "en": "Honesty brings peace.",
+    "hi": "ईमानदारी लाती है शांति।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ತರುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "praamaanikate taruttade shaamti."
+  },
+  {
+    "id": "pv_150",
+    "en": "Focus builds success.",
+    "hi": "एकाग्रता बनाती है सफलता।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ನಿರ್ಮಿಸುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "keemdriikarana nirmisuttade yashassu."
+  },
+  {
+    "id": "pv_151",
+    "en": "Focus leads to respect.",
+    "hi": "एकाग्रता की ओर ले जाती है सम्मान।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ಕರೆದೊಯ್ಯುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "keemdriikarana karedoyyuttade gaurava."
+  },
+  {
+    "id": "pv_152",
+    "en": "Knowledge builds peace.",
+    "hi": "ज्ञान बनाती है शांति।",
+    "kn": "ಜ್ಞಾನ ನಿರ್ಮಿಸುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "jnaana nirmisuttade shaamti."
+  },
+  {
+    "id": "pv_153",
+    "en": "Knowledge protects clarity.",
+    "hi": "ज्ञान सुरक्षित रखती है स्पष्टता।",
+    "kn": "ಜ್ಞಾನ ರಕ್ಷಿಸುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "jnaana rakshisuttade spashtate."
+  },
+  {
+    "id": "pv_154",
+    "en": "Discipline leads to respect.",
+    "hi": "अनुशासन की ओर ले जाती है सम्मान।",
+    "kn": "ಶಿಸ್ತ್ ಕರೆದೊಯ್ಯುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "shist karedoyyuttade gaurava."
+  },
+  {
+    "id": "pv_155",
+    "en": "Patience brings strength.",
+    "hi": "ಧೈರ್ಯ लाती है शक्ति।",
+    "kn": "ಸಹನೆ ತರುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "sahane taruttade shakti."
+  },
+  {
+    "id": "pv_156",
+    "en": "Practice brings success.",
+    "hi": "अभ्यास लाती है सफलता।",
+    "kn": "ಅಭ್ಯಾಸ ತರುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "abhyaasa taruttade yashassu."
+  },
+  {
+    "id": "pv_157",
+    "en": "Discipline protects strength.",
+    "hi": "अनुशासन सुरक्षित रखती है शक्ति।",
+    "kn": "ಶಿಸ್ತ್ ರಕ್ಷಿಸುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "shist rakshisuttade shakti."
+  },
+  {
+    "id": "pv_158",
+    "en": "Discipline guides strength.",
+    "hi": "अनुशासन मार्गदर्शन करती है शक्ति।",
+    "kn": "ಶಿಸ್ತ್ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "shist maargadarshana maaduttade shakti."
+  },
+  {
+    "id": "pv_159",
+    "en": "Kindness guides peace.",
+    "hi": "दयालुता मार्गदर्शन करती है शांति।",
+    "kn": "ದಯೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "daye maargadarshana maaduttade shaamti."
+  },
+  {
+    "id": "pv_160",
+    "en": "Kindness guides clarity.",
+    "hi": "दयालुता मार्गदर्शन करती है स्पष्टता।",
+    "kn": "ದಯೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "daye maargadarshana maaduttade spashtate."
+  },
+  {
+    "id": "pv_161",
+    "en": "Honesty brings success.",
+    "hi": "ईमानदारी लाती है सफलता।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ತರುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "praamaanikate taruttade yashassu."
+  },
+  {
+    "id": "pv_162",
+    "en": "Discipline leads to success.",
+    "hi": "अनुशासन की ओर ले जाती है सफलता।",
+    "kn": "ಶಿಸ್ತ್ ಕರೆದೊಯ್ಯುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "shist karedoyyuttade yashassu."
+  },
+  {
+    "id": "pv_163",
+    "en": "Discipline brings peace.",
+    "hi": "अनुशासन लाती है शांति।",
+    "kn": "ಶಿಸ್ತ್ ತರುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "shist taruttade shaamti."
+  },
+  {
+    "id": "pv_164",
+    "en": "Health brings peace.",
+    "hi": "स्वास्थ्य लाती है शांति।",
+    "kn": "ಆರೋಗ್ಯ ತರುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "aaroogya taruttade shaamti."
+  },
+  {
+    "id": "pv_165",
+    "en": "Kindness guides respect.",
+    "hi": "दयालुता मार्गदर्शन करती है सम्मान।",
+    "kn": "ದಯೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "daye maargadarshana maaduttade gaurava."
+  },
+  {
+    "id": "pv_166",
+    "en": "Kindness brings clarity.",
+    "hi": "दयालुता लाती है स्पष्टता।",
+    "kn": "ದಯೆ ತರುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "daye taruttade spashtate."
+  },
+  {
+    "id": "pv_167",
+    "en": "Honesty builds peace.",
+    "hi": "ईमानदारी बनाती है शांति।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ನಿರ್ಮಿಸುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "praamaanikate nirmisuttade shaamti."
+  },
+  {
+    "id": "pv_168",
+    "en": "Honesty guides strength.",
+    "hi": "ईमानदारी मार्गदर्शन करती है शक्ति।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "praamaanikate maargadarshana maaduttade shakti."
+  },
+  {
+    "id": "pv_169",
+    "en": "Patience leads to peace.",
+    "hi": "ಧೈರ್ಯ की ओर ले जाती है शांति।",
+    "kn": "ಸಹನೆ ಕರೆದೊಯ್ಯುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "sahane karedoyyuttade shaamti."
+  },
+  {
+    "id": "pv_170",
+    "en": "Knowledge builds clarity.",
+    "hi": "ज्ञान बनाती है स्पष्टता।",
+    "kn": "ಜ್ಞಾನ ನಿರ್ಮಿಸುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "jnaana nirmisuttade spashtate."
+  },
+  {
+    "id": "pv_171",
+    "en": "Focus brings success.",
+    "hi": "एकाग्रता लाती है सफलता।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ತರುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "keemdriikarana taruttade yashassu."
+  },
+  {
+    "id": "pv_172",
+    "en": "Practice builds respect.",
+    "hi": "अभ्यास बनाती है सम्मान।",
+    "kn": "ಅಭ್ಯಾಸ ನಿರ್ಮಿಸುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "abhyaasa nirmisuttade gaurava."
+  },
+  {
+    "id": "pv_173",
+    "en": "Knowledge leads to clarity.",
+    "hi": "ज्ञान की ओर ले जाती है स्पष्टता।",
+    "kn": "ಜ್ಞಾನ ಕರೆದೊಯ್ಯುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "jnaana karedoyyuttade spashtate."
+  },
+  {
+    "id": "pv_174",
+    "en": "Knowledge leads to clarity.",
+    "hi": "ज्ञान की ओर ले जाती है स्पष्टता।",
+    "kn": "ಜ್ಞಾನ ಕರೆದೊಯ್ಯುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "jnaana karedoyyuttade spashtate."
+  },
+  {
+    "id": "pv_175",
+    "en": "Discipline builds peace.",
+    "hi": "अनुशासन बनाती है शांति।",
+    "kn": "ಶಿಸ್ತ್ ನಿರ್ಮಿಸುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "shist nirmisuttade shaamti."
+  },
+  {
+    "id": "pv_176",
+    "en": "Kindness brings peace.",
+    "hi": "दयालुता लाती है शांति।",
+    "kn": "ದಯೆ ತರುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "daye taruttade shaamti."
+  },
+  {
+    "id": "pv_177",
+    "en": "Focus builds peace.",
+    "hi": "एकाग्रता बनाती है शांति।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ನಿರ್ಮಿಸುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "keemdriikarana nirmisuttade shaamti."
+  },
+  {
+    "id": "pv_178",
+    "en": "Patience brings success.",
+    "hi": "ಧೈರ್ಯ लाती है सफलता।",
+    "kn": "ಸಹನೆ ತರುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "sahane taruttade yashassu."
+  },
+  {
+    "id": "pv_179",
+    "en": "Patience guides clarity.",
+    "hi": "ಧೈರ್ಯ मार्गदर्शन करती है स्पष्टता।",
+    "kn": "ಸಹನೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "sahane maargadarshana maaduttade spashtate."
+  },
+  {
+    "id": "pv_180",
+    "en": "Focus protects strength.",
+    "hi": "एकाग्रता सुरक्षित रखती है शक्ति।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ರಕ್ಷಿಸುತ್ತದೆ ಶಕ್ತಿ.",
+    "tr_simple": "keemdriikarana rakshisuttade shakti."
+  },
+  {
+    "id": "pv_181",
+    "en": "Focus guides clarity.",
+    "hi": "एकाग्रता मार्गदर्शन करती है स्पष्टता।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "keemdriikarana maargadarshana maaduttade spashtate."
+  },
+  {
+    "id": "pv_182",
+    "en": "Health builds clarity.",
+    "hi": "स्वास्थ्य बनाती है स्पष्टता।",
+    "kn": "ಆರೋಗ್ಯ ನಿರ್ಮಿಸುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "aaroogya nirmisuttade spashtate."
+  },
+  {
+    "id": "pv_183",
+    "en": "Focus brings clarity.",
+    "hi": "एकाग्रता लाती है स्पष्टता।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ತರುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "keemdriikarana taruttade spashtate."
+  },
+  {
+    "id": "pv_184",
+    "en": "Practice guides respect.",
+    "hi": "अभ्यास मार्गदर्शन करती है सम्मान।",
+    "kn": "ಅಭ್ಯಾಸ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "abhyaasa maargadarshana maaduttade gaurava."
+  },
+  {
+    "id": "pv_185",
+    "en": "Focus builds respect.",
+    "hi": "एकाग्रता बनाती है सम्मान।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ನಿರ್ಮಿಸುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "keemdriikarana nirmisuttade gaurava."
+  },
+  {
+    "id": "pv_186",
+    "en": "Knowledge leads to respect.",
+    "hi": "ज्ञान की ओर ले जाती है सम्मान।",
+    "kn": "ಜ್ಞಾನ ಕರೆದೊಯ್ಯುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "jnaana karedoyyuttade gaurava."
+  },
+  {
+    "id": "pv_187",
+    "en": "Knowledge protects respect.",
+    "hi": "ज्ञान सुरक्षित रखती है सम्मान।",
+    "kn": "ಜ್ಞಾನ ರಕ್ಷಿಸುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "jnaana rakshisuttade gaurava."
+  },
+  {
+    "id": "pv_188",
+    "en": "Courage leads to respect.",
+    "hi": "साहस की ओर ले जाती है सम्मान।",
+    "kn": "ಧೈರ್ಯ ಕರೆದೊಯ್ಯುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "dhairya karedoyyuttade gaurava."
+  },
+  {
+    "id": "pv_189",
+    "en": "Focus builds success.",
+    "hi": "एकाग्रता बनाती है सफलता।",
+    "kn": "ಕೇಂದ್ರೀಕರಣ ನಿರ್ಮಿಸುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "keemdriikarana nirmisuttade yashassu."
+  },
+  {
+    "id": "pv_190",
+    "en": "Health guides clarity.",
+    "hi": "स्वास्थ्य मार्गदर्शन करती है स्पष्टता।",
+    "kn": "ಆರೋಗ್ಯ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "aaroogya maargadarshana maaduttade spashtate."
+  },
+  {
+    "id": "pv_191",
+    "en": "Practice builds respect.",
+    "hi": "अभ्यास बनाती है सम्मान।",
+    "kn": "ಅಭ್ಯಾಸ ನಿರ್ಮಿಸುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "abhyaasa nirmisuttade gaurava."
+  },
+  {
+    "id": "pv_192",
+    "en": "Courage builds peace.",
+    "hi": "साहस बनाती है शांति।",
+    "kn": "ಧೈರ್ಯ ನಿರ್ಮಿಸುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "dhairya nirmisuttade shaamti."
+  },
+  {
+    "id": "pv_193",
+    "en": "Discipline brings peace.",
+    "hi": "अनुशासन लाती है शांति।",
+    "kn": "ಶಿಸ್ತ್ ತರುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "shist taruttade shaamti."
+  },
+  {
+    "id": "pv_194",
+    "en": "Honesty guides clarity.",
+    "hi": "ईमानदारी मार्गदर्शन करती है स्पष्टता।",
+    "kn": "ಪ್ರಾಮಾಣಿಕತೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಸ್ಪಷ್ಟತೆ.",
+    "tr_simple": "praamaanikate maargadarshana maaduttade spashtate."
+  },
+  {
+    "id": "pv_195",
+    "en": "Courage guides respect.",
+    "hi": "साहस मार्गदर्शन करती है सम्मान।",
+    "kn": "ಧೈರ್ಯ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "dhairya maargadarshana maaduttade gaurava."
+  },
+  {
+    "id": "pv_196",
+    "en": "Practice protects success.",
+    "hi": "अभ्यास सुरक्षित रखती है सफलता।",
+    "kn": "ಅಭ್ಯಾಸ ರಕ್ಷಿಸುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "abhyaasa rakshisuttade yashassu."
+  },
+  {
+    "id": "pv_197",
+    "en": "Courage brings respect.",
+    "hi": "साहस लाती है सम्मान।",
+    "kn": "ಧೈರ್ಯ ತರುತ್ತದೆ ಗೌರವ.",
+    "tr_simple": "dhairya taruttade gaurava."
+  },
+  {
+    "id": "pv_198",
+    "en": "Courage leads to success.",
+    "hi": "साहस की ओर ले जाती है सफलता।",
+    "kn": "ಧೈರ್ಯ ಕರೆದೊಯ್ಯುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "dhairya karedoyyuttade yashassu."
+  },
+  {
+    "id": "pv_199",
+    "en": "Kindness brings success.",
+    "hi": "दयालुता लाती है सफलता।",
+    "kn": "ದಯೆ ತರುತ್ತದೆ ಯಶಸ್ಸು.",
+    "tr_simple": "daye taruttade yashassu."
+  },
+  {
+    "id": "pv_200",
+    "en": "Kindness brings peace.",
+    "hi": "दयालुता लाती है शांति।",
+    "kn": "ದಯೆ ತರುತ್ತದೆ ಶಾಂತಿ.",
+    "tr_simple": "daye taruttade shaamti."
+  }
+]
