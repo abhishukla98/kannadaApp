@@ -1,2 +1,490 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kannada Verb Mastery Lab - Advanced Logic</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .root-color { color: #ef4444; font-weight: bold; }
+        .tense-color { color: #3b82f6; font-weight: bold; }
+        .ending-color { color: #10b981; font-weight: bold; }
+        .flashcard { perspective: 1000px; height: 220px; cursor: pointer; }
+        .flashcard-inner { transition: transform 0.6s; transform-style: preserve-3d; position: relative; width: 100%; height: 100%; }
+        .flashcard.flipped .flashcard-inner { transform: rotateY(180deg); }
+        .flashcard-front, .flashcard-back { backface-visibility: hidden; position: absolute; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; border-radius: 1.5rem; flex-direction: column; text-align: center; padding: 1.5rem; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1); }
+        .flashcard-back { transform: rotateY(180deg); background-color: #f0fdf4; border: 2px solid #10b981; }
+        .flashcard-front { background-color: #ffffff; border: 2px solid #e2e8f0; }
+        .vocab-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px; }
+        .vocab-item { background: white; padding: 10px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center; transition: all 0.2s; cursor: default; }
+        .vocab-item:hover { background: #f1f5f9; transform: scale(1.05); }
+        
+        .custom-scroll::-webkit-scrollbar { width: 4px; }
+        .custom-scroll::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
+        
+        .e-sound { background-color: #ecfdf5; border: 1px solid #10b981; color: #065f46; }
+        .u-sound { background-color: #eff6ff; border: 1px solid #3b82f6; color: #1e40af; }
+        .special-sound { background-color: #fdf2f8; border: 1px solid #db2777; color: #9d174d; }
+    </style>
+</head>
+<body class="bg-slate-50 text-gray-900 font-sans pb-20">
 
-<!doctype html><html lang="en"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><title>Kannada Learning App</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+Kannada:wght@400;700&display=swap" rel="stylesheet"></head><body><div id="root"></div><script type="module" src="/src/main.tsx"></script></body></html>
+    <!-- Header -->
+    <header class="bg-gradient-to-br from-indigo-950 via-indigo-900 to-blue-950 text-white py-16 px-4 text-center shadow-2xl relative overflow-hidden">
+        <div class="absolute inset-0 opacity-10 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')]"></div>
+        <h1 class="text-4xl md:text-6xl font-black mb-4 relative z-10 tracking-tight">Kannada Mastery Lab</h1>
+        <p class="text-indigo-200 text-lg md:text-xl max-w-3xl mx-auto relative z-10 font-light italic">The ultimate guide to Kannada verbs: Logic, Grammar, and Vocabulary.</p>
+    </header>
+
+    <main class="max-w-6xl mx-auto p-4 md:p-8 space-y-20">
+
+        <!-- 1. MASTER LOGIC HUB SECTION -->
+        <section id="logic-hub" class="space-y-12">
+            <h2 class="text-3xl font-black text-indigo-900 flex items-center gap-3">
+                <span class="bg-indigo-600 text-white w-10 h-10 flex items-center justify-center rounded-full text-lg">1</span>
+                The Master Logic Hub
+            </h2>
+
+            <!-- E vs U Rule Box -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div class="bg-white p-8 rounded-[2rem] shadow-xl border-t-8 border-emerald-500">
+                    <h3 class="text-xl font-bold mb-4 flex items-center gap-2 text-emerald-800">
+                        <span class="text-2xl">🟢</span> The "E" Rule (Present)
+                    </h3>
+                    <p class="text-gray-600 mb-6">If a verb ending contains an <strong>"E"</strong> sound, it usually signals the <strong>Present</strong> (Habitual or Continuous).</p>
+                    <div class="space-y-3">
+                        <div class="p-3 e-sound rounded-xl font-mono text-sm">Nānu mādutt**ēne** (I do)</div>
+                        <div class="p-3 e-sound rounded-xl font-mono text-sm">Avanu mādutt**āne** (He does)</div>
+                        <div class="p-3 e-sound rounded-xl font-mono text-sm">Avaru mādutt**āre** (They do)</div>
+                    </div>
+                </div>
+
+                <div class="bg-white p-8 rounded-[2rem] shadow-xl border-t-8 border-blue-500">
+                    <h3 class="text-xl font-bold mb-4 flex items-center gap-2 text-blue-800">
+                        <span class="text-2xl">🔵</span> The "U" Rule (Past/Future)
+                    </h3>
+                    <p class="text-gray-600 mb-6">If a verb ending contains a <strong>"U"</strong> sound, it signals <strong>Past</strong> or <strong>Future</strong> (Completed or Planned).</p>
+                    <div class="space-y-3">
+                        <div class="p-3 u-sound rounded-xl font-mono text-sm">Nānu mādid**enu** (I did)</div>
+                        <div class="p-3 u-sound rounded-xl font-mono text-sm">Avanu mādid**anu** (He did)</div>
+                        <div class="p-3 u-sound rounded-xl font-mono text-sm">Nāvu māduv**evu** (We will do)</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- NEW CONCEPT: IMPERATIVES & VERBAL NOUNS -->
+            <div class="bg-white p-8 rounded-[2rem] shadow-xl border-t-8 border-pink-500">
+                <h3 class="text-xl font-bold mb-4 flex items-center gap-2 text-pink-800">
+                    <span class="text-2xl">💡</span> Imperatives & Verbal Nouns (Commands vs. The Act)
+                </h3>
+                <p class="text-gray-600 mb-6">Apart from tenses, verbs have forms for giving orders (Imperatives) and talking about the action itself (Verbal Nouns).</p>
+                
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                    <div class="space-y-3">
+                        <h4 class="font-bold text-gray-700 text-sm uppercase tracking-wider">1. The Command (Small)</h4>
+                        <p class="text-xs text-gray-500 italic">Used for friends or children (Tu/Tum).</p>
+                        <div class="p-3 special-sound rounded-xl font-mono text-sm">
+                            <strong>Bā!</strong> (Come!) <br>
+                            <strong>Hōgu!</strong> (Go!) <br>
+                            <strong>Māḍu!</strong> (Do it!)
+                        </div>
+                    </div>
+                    <div class="space-y-3">
+                        <h4 class="font-bold text-gray-700 text-sm uppercase tracking-wider">2. The Command (Respect)</h4>
+                        <p class="text-xs text-gray-500 italic">Used for elders or groups (Aap).</p>
+                        <div class="p-3 special-sound rounded-xl font-mono text-sm">
+                            <strong>Banni!</strong> (Please come) <br>
+                            <strong>Hōgi!</strong> (Please go) <br>
+                            <strong>Māḍi!</strong> (Please do)
+                        </div>
+                    </div>
+                    <div class="space-y-3">
+                        <h4 class="font-bold text-gray-700 text-sm uppercase tracking-wider">3. The Verbal Noun (-vudu)</h4>
+                        <p class="text-xs text-gray-500 italic">"The act of..." or "To do..."</p>
+                        <div class="p-3 special-sound rounded-xl font-mono text-sm">
+                            <strong>Baruvudu</strong> (Coming) <br>
+                            <strong>Hōguvudu</strong> (Going) <br>
+                            <strong>Māḍuvudu</strong> (Doing)
+                        </div>
+                    </div>
+                </div>
+                <p class="mt-6 text-sm text-gray-500 bg-gray-50 p-4 rounded-xl">
+                    <strong>Note:</strong> <em>Baru</em> (root) changes to <em>Bā</em> for informal command and <em>Banni</em> for formal. <em>Baruvudu</em> is the gerund form used in sentences like "Coming is good" (Baruvudu oḷḷeyadu).
+                </p>
+            </div>
+
+            <!-- Detailed Pronoun Table -->
+            <div class="bg-white rounded-[2rem] shadow-xl border border-gray-100 overflow-hidden">
+                <div class="bg-indigo-900 text-white p-6 font-bold text-xl">The Master Pronoun Table</div>
+                <div class="overflow-x-auto">
+                    <table class="w-full text-left border-collapse">
+                        <thead>
+                            <tr class="bg-indigo-50 text-indigo-900 uppercase text-xs font-black">
+                                <th class="p-4 border">Kannada Pronoun</th>
+                                <th class="p-4 border">English / Hindi</th>
+                                <th class="p-4 border">Present Ending</th>
+                                <th class="p-4 border">Past/Future Ending</th>
+                            </tr>
+                        </thead>
+                        <tbody class="text-sm">
+                            <tr><td class="p-4 border font-bold">Nānu</td><td class="p-4 border">I / Main</td><td class="p-4 border font-mono text-emerald-600">-ēne</td><td class="p-4 border font-mono text-blue-600">-enu</td></tr>
+                            <tr class="bg-gray-50"><td class="p-4 border font-bold">Nīnu</td><td class="p-4 border">You (Informal) / Tu</td><td class="p-4 border font-mono text-emerald-600">-īya</td><td class="p-4 border font-mono text-blue-600">-e</td></tr>
+                            <tr><td class="p-4 border font-bold">Nīvu</td><td class="p-4 border">You (Respect) / Aap</td><td class="p-4 border font-mono text-emerald-600">-īri</td><td class="p-4 border font-mono text-blue-600">-iri</td></tr>
+                            <tr class="bg-gray-50"><td class="p-4 border font-bold">Nāvu</td><td class="p-4 border">We / Hum</td><td class="p-4 border font-mono text-emerald-600">-ēve</td><td class="p-4 border font-mono text-blue-600">-evu</td></tr>
+                            
+                            <tr class="bg-indigo-50/50"><td colspan="4" class="p-2 text-center text-[10px] font-bold text-gray-400">THIRD PERSON (HE / SHE / IT)</td></tr>
+                            
+                            <tr><td class="p-4 border font-bold">Avanu / Ivanu</td><td class="p-4 border">He (That/This) / Woh/Yeh</td><td class="p-4 border font-mono text-emerald-600">-āne</td><td class="p-4 border font-mono text-blue-600">-anu</td></tr>
+                            <tr class="bg-gray-50"><td class="p-4 border font-bold">Avaḷu / Ivaḷu</td><td class="p-4 border">She (That/This) / Woh/Yeh</td><td class="p-4 border font-mono text-emerald-600">-āḷe</td><td class="p-4 border font-mono text-blue-600">-aḷu</td></tr>
+                            <tr><td class="p-4 border font-bold">Avaru / Ivaru</td><td class="p-4 border">They (That/This) / Ve</td><td class="p-4 border font-mono text-emerald-600">-āre</td><td class="p-4 border font-mono text-blue-600">-aru</td></tr>
+                            <tr class="bg-gray-50"><td class="p-4 border font-bold">Adu / Idu</td><td class="p-4 border">It (That/This) / Woh/Yeh</td><td class="p-4 border font-mono text-emerald-600">-ade</td><td class="p-4 border font-mono text-blue-600">-itu</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- Tense Logic Grid -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                <div class="bg-white p-6 rounded-2xl shadow-lg border-l-4 border-indigo-500">
+                    <h4 class="font-bold text-indigo-700 mb-2">Simple Present</h4>
+                    <p class="text-[10px] text-gray-400 font-bold mb-4 uppercase">Routine / Facts</p>
+                    <div class="font-mono text-xs p-2 bg-gray-50 rounded">Root + <span class="text-blue-500">utt</span> + End(E)</div>
+                </div>
+                <div class="bg-white p-6 rounded-2xl shadow-lg border-l-4 border-blue-500">
+                    <h4 class="font-bold text-blue-700 mb-2">Continuous</h4>
+                    <p class="text-[10px] text-gray-400 font-bold mb-4 uppercase">Happening Now</p>
+                    <div class="font-mono text-xs p-2 bg-gray-50 rounded">Root + <span class="text-blue-500">uttidd</span> + End(E)</div>
+                </div>
+                <div class="bg-white p-6 rounded-2xl shadow-lg border-l-4 border-green-500">
+                    <h4 class="font-bold text-green-700 mb-2">Simple Past</h4>
+                    <p class="text-[10px] text-gray-400 font-bold mb-4 uppercase">Completed Action</p>
+                    <div class="font-mono text-xs p-2 bg-gray-50 rounded">Root + <span class="text-blue-500">id</span> + End(U)</div>
+                </div>
+                <div class="bg-white p-6 rounded-2xl shadow-lg border-l-4 border-purple-500">
+                    <h4 class="font-bold text-purple-700 mb-2">Perfect Tense</h4>
+                    <p class="text-[10px] text-gray-400 font-bold mb-4 uppercase">Action "Has" happened</p>
+                    <div class="font-mono text-xs p-2 bg-gray-50 rounded">PastRoot + <span class="text-blue-500">idd</span> + End(E)</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 2. DYNAMIC CARD & SENTENCE CREATOR -->
+        <section id="creator" class="bg-white rounded-[2.5rem] shadow-2xl overflow-hidden border border-indigo-100">
+            <div class="bg-indigo-700 p-8 text-white">
+                <h2 class="text-3xl font-bold flex items-center gap-3">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-indigo-300" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" /></svg>
+                    The Dynamic Creator
+                </h2>
+                <p class="text-indigo-200 mt-2">Pick components and see the logic change instantly.</p>
+            </div>
+            
+            <div class="p-8 grid grid-cols-1 lg:grid-cols-4 gap-8">
+                <!-- Selectors -->
+                <div class="lg:col-span-1 space-y-4">
+                    <div>
+                        <label class="text-xs font-black text-gray-400 uppercase tracking-widest mb-2 block">1. Pronoun</label>
+                        <select id="pSel" class="w-full p-3 bg-indigo-50 border-2 border-indigo-100 rounded-xl focus:ring-2 focus:ring-indigo-500 outline-none transition-all">
+                            <option value="nanu">Nānu (I / Main)</option>
+                            <option value="ninu">Nīnu (You / Tu)</option>
+                            <option value="nivu">Nīvu (You-Resp / Aap)</option>
+                            <option value="navu">Nāvu (We / Hum)</option>
+                            <option value="avanu">Avanu (He-Woh)</option>
+                            <option value="avalu">Avaḷu (She-Woh)</option>
+                            <option value="avaru">Avaru (They-Ve)</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label class="text-xs font-black text-gray-400 uppercase tracking-widest mb-2 block">2. Object</label>
+                        <select id="oSel" class="w-full p-3 bg-amber-50 border-2 border-amber-100 rounded-xl outline-none transition-all">
+                        </select>
+                    </div>
+                    <div>
+                        <label class="text-xs font-black text-gray-400 uppercase tracking-widest mb-2 block">3. Action</label>
+                        <select id="vSel" class="w-full p-3 bg-red-50 border-2 border-red-100 rounded-xl outline-none transition-all">
+                            <option value="tinnu">Tinnu (Eat)</option>
+                            <option value="kudi">Kuḍi (Drink)</option>
+                            <option value="odu_read">Ōdu (Read)</option>
+                            <option value="bare">Bare (Write)</option>
+                            <option value="odu">Oḍu (Run)</option>
+                            <option value="hogu">Hōgu (Go)</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label class="text-xs font-black text-gray-400 uppercase tracking-widest mb-2 block">4. Tense</label>
+                        <select id="tSel" class="w-full p-3 bg-blue-50 border-2 border-blue-100 rounded-xl outline-none transition-all">
+                            <option value="pres">Present (Habit)</option>
+                            <option value="cont">Continuous (Now)</option>
+                            <option value="past">Past (Finished)</option>
+                            <option value="futr">Future (Planned)</option>
+                        </select>
+                    </div>
+                    
+                    <button onclick="generateFlashcard()" class="w-full bg-indigo-600 hover:bg-indigo-800 text-white font-bold py-4 rounded-xl shadow-lg transform active:scale-95 transition-all mt-4 flex items-center justify-center gap-2 uppercase text-xs tracking-widest">
+                        Add to Practice Grid
+                    </button>
+                </div>
+
+                <!-- Live Preview -->
+                <div class="lg:col-span-3 bg-slate-900 rounded-3xl p-8 flex flex-col items-center justify-center border-b-8 border-indigo-500 relative">
+                    <span class="absolute top-6 left-6 text-indigo-500 font-mono text-xs tracking-widest uppercase">Live Build</span>
+                    <div id="resultOutput" class="text-white text-3xl md:text-5xl font-bold mb-4 text-center leading-tight">Nānu tinnuttēne</div>
+                    <div id="hindiResult" class="text-indigo-300 text-xl italic opacity-80 mb-2">Main khata hoon</div>
+                    <div id="englishResult" class="text-gray-400 text-sm">I eat</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 3. FLASH CARDS GRID -->
+        <section id="flashcard-section" class="space-y-8">
+            <div class="flex items-center justify-between">
+                <h2 class="text-3xl font-black text-indigo-900 flex items-center gap-3">
+                    <span class="bg-indigo-600 text-white w-10 h-10 flex items-center justify-center rounded-full text-lg">2</span>
+                    My Practice Cards
+                </h2>
+                <button onclick="clearCustomCards()" class="text-sm text-red-500 hover:underline font-bold">Clear All</button>
+            </div>
+            
+            <div id="flashcardGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Static Starter -->
+                <div class="flashcard" onclick="this.classList.toggle('flipped')">
+                    <div class="flashcard-inner">
+                        <div class="flashcard-front">
+                            <span class="text-xs font-bold text-red-500 mb-2 uppercase tracking-tighter">English</span>
+                            <h3 class="text-xl font-bold">I am drinking water</h3>
+                        </div>
+                        <div class="flashcard-back">
+                            <span class="text-xs font-bold text-green-600 mb-2 uppercase tracking-tighter">Kannada</span>
+                            <h3 class="text-lg font-bold">Nānu nīru kuḍiyuttiddēne</h3>
+                            <p class="text-xs text-gray-500 mt-2 italic">Main paani pee raha hoon</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 4. VOCABULARY VAULT -->
+        <section id="vocab" class="space-y-6">
+            <h2 class="text-3xl font-black text-indigo-900 flex items-center gap-3">
+                <span class="bg-indigo-600 text-white w-10 h-10 flex items-center justify-center rounded-full text-lg">3</span>
+                Vocabulary Vault
+            </h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+                <div class="bg-white p-6 rounded-3xl shadow-lg border border-gray-100">
+                    <h3 class="font-bold text-indigo-700 mb-4 flex items-center justify-between border-b pb-2">Home & Body</h3>
+                    <div class="vocab-grid custom-scroll max-h-[300px] overflow-y-auto pr-2" id="homeVocab"></div>
+                </div>
+                <div class="bg-white p-6 rounded-3xl shadow-lg border border-gray-100">
+                    <h3 class="font-bold text-orange-700 mb-4 flex items-center justify-between border-b pb-2">Food & Drinks</h3>
+                    <div class="vocab-grid custom-scroll max-h-[300px] overflow-y-auto pr-2" id="foodVocab"></div>
+                </div>
+                <div class="bg-white p-6 rounded-3xl shadow-lg border border-gray-100">
+                    <h3 class="font-bold text-green-700 mb-4 flex items-center justify-between border-b pb-2">Nature & Travel</h3>
+                    <div class="vocab-grid custom-scroll max-h-[300px] overflow-y-auto pr-2" id="natureVocab"></div>
+                </div>
+                <!-- 100 VERBS SECTION -->
+                <div class="bg-white p-6 rounded-3xl shadow-lg border border-red-100">
+                    <h3 class="font-bold text-red-700 mb-4 flex items-center justify-between border-b pb-2">100 Common Verbs</h3>
+                    <div class="vocab-grid custom-scroll max-h-[300px] overflow-y-auto pr-2" id="verbsVocab"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 5. DAILY CONVERSATIONS -->
+        <section id="conversations" class="space-y-6">
+            <h2 class="text-3xl font-black text-indigo-900 flex items-center gap-3">
+                <span class="bg-indigo-600 text-white w-10 h-10 flex items-center justify-center rounded-full text-lg">4</span>
+                Conversation Scenarios
+            </h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="conversationGrid">
+            </div>
+        </section>
+
+    </main>
+
+    <script>
+        const vocabData = {
+            home: [
+                ["Mane", "House"], ["Bāgilu", "Door"], ["Kiṭaki", "Window"], ["Hallu", "Tooth"], ["Kannu", "Eye"],
+                ["Kai", "Hand"], ["Kālu", "Leg"], ["Tale", "Head"], ["Huḍuga", "Boy"], ["Huḍugi", "Girl"],
+                ["Appa", "Dad"], ["Amma", "Mom"], ["Aṇṇa", "Brother"], ["Akka", "Sister"], ["Kurchi", "Chair"],
+                ["Meju", "Table"], ["Hāse", "Bed"], ["Paustaka", "Book"], ["Pena", "Pen"], ["Bagi", "Bag"],
+                ["Devaru", "God"], ["Angadi", "Shop"], ["Shaale", "School"], ["Koli", "Room"], ["Deepa", "Light"],
+                ["Battalu", "Plate"], ["Chamacha", "Spoon"], ["Batle", "Clothes"], ["Kannaḍi", "Mirror"], ["Soap", "Sabun"]
+            ],
+            food: [
+                ["Nīru", "Water"], ["Anna", "Rice"], ["Hālu", "Milk"], ["Mosaru", "Curd"], ["Benne", "Butter"],
+                ["Tuppa", "Ghee"], ["Tiṇḍi", "Snack"], ["Uṭa", "Meal"], ["Haṇṇu", "Fruit"], ["Tarkāri", "Veggie"],
+                ["Sakkare", "Sugar"], ["Uppu", "Salt"], ["Kapi", "Coffee"], ["Cha", "Tea"], ["Roṭṭi", "Roti"],
+                ["Sāru", "Sambar"], ["Palya", "Dry Veg"], ["Maṃsa", "Meat"], ["Moṭṭe", "Egg"], ["Meṇasu", "Chilli"],
+                ["Jeerige", "Cumin"], ["Arishina", "Turmeric"], ["Baalehannu", "Banana"], ["Maavina", "Mango"], ["Sebu", "Apple"]
+            ],
+            nature: [
+                ["Mara", "Tree"], ["Hū", "Flower"], ["Ele", "Leaf"], ["Gidḍa", "Plant"], ["Bānu", "Sky"],
+                ["Sūrya", "Sun"], ["Chandra", "Moon"], ["Nakshatra", "Star"], ["Gāḷi", "Wind"], ["Maḷe", "Rain"],
+                ["Kallu", "Stone"], ["Maṇṇu", "Soil"], ["Nadi", "River"], ["Samudra", "Sea"], ["Halli", "Village"],
+                ["Paṭṭaṇa", "City"], ["Raste", "Road"], ["Vāhana", "Vehicle"], ["Doṇi", "Boat"], ["Āne", "Elephant"],
+                ["Huli", "Tiger"], ["Simha", "Lion"], ["Nayi", "Dog"], ["Bekku", "Cat"], ["Hasu", "Cow"],
+                ["Kadu", "Forest"], ["Betta", "Hill"], ["Kere", "Pond"], ["Hul", "Grass"], ["Pakshi", "Bird"],
+                ["Meenu", "Fish"], ["Haavu", "Snake"], ["Gūḍu", "Nest"], ["Kappe", "Frog"], ["Iruve", "Ant"],
+                ["Sanga", "Friend"], ["Kelsa", "Work"], ["Pustaka", "Book"], ["Mane", "Home"], ["Outa", "Lunch"]
+            ],
+            verbs: [
+                ["Baru", "Come"], ["Hōgu", "Go"], ["Māḍu", "Do"], ["Tinnu", "Eat"], ["Kuḍi", "Drink"],
+                ["Ōdu", "Read"], ["Bare", "Write"], ["Nōḍu", "See"], ["Kēḷu", "Listen/Ask"], ["Hēḷu", "Tell"],
+                ["Malagu", "Sleep"], ["Kūru", "Sit"], ["Nille", "Stand"], ["Naḍe", "Walk"], ["Ōḍu", "Run"],
+                ["Koḍu", "Give"], ["Tego", "Take"], ["Āḍu", "Play"], ["Hāḍu", "Sing"], ["Kuṇi", "Dance"],
+                ["Nage", "Laugh"], ["Aḷu", "Cry"], ["Kali", "Learn"], ["Kalisū", "Teach"], ["Kari", "Call"],
+                ["Toḷe", "Wash"], ["Guḍisu", "Sweep"], ["Aḍuge", "Cook"], ["Agi", "Bite"], ["Melu", "Chew"],
+                ["Agu", "Become"], ["Antu", "Stick"], ["Ari", "Grind"], ["Tiḷi", "Understand"], ["Ayda", "Select"],
+                ["Badali", "Change"], ["Bāḷu", "Live"], ["Bāggu", "Bend"], ["Beḷe", "Grow"], ["Iru", "Exist/Be"],
+                ["Beḷagu", "Shine"], ["Biḍu", "Leave"], ["Bīḷu", "Fall"], ["Bittu", "Sow"], ["Bisi", "Grind"],
+                ["Terā", "Open"], ["Bachchu", "Hide"], ["Buyyi", "Scold"], ["Chakku", "Taste"], ["Sāyu", "Die"],
+                ["Chellu", "Spill"], ["Chiguru", "Sprout"], ["Yōchisu", "Think"], ["Chuchchu", "Prick"], ["Dharisu", "Wear"],
+                ["Dudiyu", "Work"], ["Toggu", "Push"], ["Yēḷu", "Wake up"], ["Eḷiyu", "Pull"], ["Hattu", "Climb"],
+                ["Ettu", "Lift"], ["Gellu", "Win"], ["Gichchu", "Scratch"], ["Tiru", "Turn"], ["Guchchu", "Stitch"],
+                ["Heru", "Give Birth"], ["Hāru", "Fly/Jump"], ["Haravi", "Spread"], ["Hanchi", "Share"], ["Harasu", "Bless"],
+                ["Hari", "Flow/Tear"], ["Hiḍi", "Catch"], ["Hikku", "Pick"], ["Hoḍe", "Hit"], ["Hore", "Carry"],
+                ["Huṭṭu", "Born"], ["Iḍu", "Put"], ["Iḷi", "Descend"], ["Īju", "Swim"], ["Jāru", "Slip"],
+                ["Jaggu", "Tug"], ["Kattarisu", "Cut"], ["Kāyu", "Wait"], ["Kemmu", "Cough"], ["Keḍu", "Spoil"],
+                ["Kereyu", "Dig"], ["Kiruchu", "Shout"], ["Kollu", "Kill"], ["Koḷe", "Rot"], ["Kudisu", "Boil"],
+                ["Kuri", "Aim"], ["Kuṭṭu", "Pound"], ["Muttu", "Touch"], ["Sōlu", "Lose"], ["Nambu", "Trust"],
+                ["Mare", "Forget"], ["Nenapi", "Remember"], ["Prīti", "Love"], ["Dhvesha", "Hate"], ["Bayasu", "Want"]
+            ]
+        };
+
+        const conversations = [
+            { k: "Nīnu yelli iddīya?", h: "Kahan ho?", e: "Where are you?" },
+            { k: "Nānu mane-yalli iddēne.", h: "Main ghar mein hoon.", e: "I am at home." },
+            { k: "Nīvu nīru kudidira?", h: "Kya aapne paani piya?", e: "Did you drink water?" },
+            { k: "Haudu, nānu nīru kudidenu.", h: "Haan, maine paani piya.", e: "Yes, I drank water." },
+            { k: "Samaya yēnu?", h: "Time kya hai?", e: "What is the time?" },
+            { k: "Iga aidu gaṇṭe.", h: "Abhi 5 baj gaye hain.", e: "It is 5 o'clock now." }
+        ];
+
+        const pMap = {
+            nanu: { kan: "Nānu", h: "Main", e: "I", ends: { pres: "ēne", cont: "iddēne", past: "enu", futr: "enu" } },
+            ninu: { kan: "Nīnu", h: "Tum", e: "You", ends: { pres: "īya", cont: "iddīya", past: "e", futr: "e" } },
+            nivu: { kan: "Nīvu", h: "Aap", e: "You (Resp)", ends: { pres: "īri", cont: "iddīri", past: "iri", futr: "iri" } },
+            navu: { kan: "Nāvu", h: "Hum", e: "We", ends: { pres: "ēve", cont: "iddēve", past: "evu", futr: "evu" } },
+            avanu: { kan: "Avanu", h: "Woh (He)", e: "He", ends: { pres: "āne", cont: "iddāne", past: "anu", futr: "anu" } },
+            avalu: { kan: "Avaḷu", h: "Woh (She)", e: "She", ends: { pres: "āḷe", cont: "iddāḷe", past: "aḷu", futr: "aḷu" } },
+            avaru: { kan: "Avaru", h: "Ve (They)", e: "They", ends: { pres: "āre", cont: "iddāre", past: "aru", futr: "aru" } }
+        };
+
+        const vMap = {
+            tinnu: { r: "tinn", pres: "u", c: "utt", p: "id", f: "uv", hp: "khata", hc: "kha raha", hpa: "khaya", hf: "khaunga", ep: "eats", ec: "is eating", epa: "ate", ef: "will eat" },
+            kudi: { r: "kuḍiy", pres: "u", c: "utt", p: "id", f: "uv", hp: "peeta", hc: "pee raha", hpa: "piya", hf: "peeunga", ep: "drinks", ec: "is drinking", epa: "drank", ef: "will drink" },
+            odu_read: { r: "ōd", pres: "u", c: "utt", p: "id", f: "uv", hp: "padhta", hc: "padh raha", hpa: "padha", hf: "padhunga", ep: "reads", ec: "is reading", epa: "read", ef: "will read" },
+            bare: { r: "barey", pres: "u", c: "utt", p: "id", f: "uv", hp: "likhta", hc: "likh raha", hpa: "likha", hf: "likhunga", ep: "writes", ec: "is writing", epa: "wrote", ef: "will write" },
+            odu: { r: "oḍ", pres: "u", c: "utt", p: "id", f: "uv", hp: "daudta", hc: "daud raha", hpa: "dauda", hf: "daudunga", ep: "runs", ec: "is running", epa: "ran", ef: "will run" },
+            hogu: { r: "hōg", pres: "u", c: "utt", p: "irregular", f: "uv", hp: "jaata", hc: "jaa raha", hpa: "gaya", hf: "jaaunga", ep: "goes", ec: "is going", epa: "went", ef: "will go" }
+        };
+
+        function populateSelects() {
+            const oSel = document.getElementById('oSel');
+            oSel.innerHTML = '<option value="">(None)</option>';
+            // Combine all nouns for the selector
+            [...vocabData.home, ...vocabData.food, ...vocabData.nature].forEach(item => {
+                const opt = document.createElement('option');
+                opt.value = item[0].toLowerCase();
+                opt.dataset.kan = item[0];
+                opt.dataset.eng = item[1];
+                opt.innerText = `${item[0]} (${item[1]})`;
+                oSel.appendChild(opt);
+            });
+        }
+
+        function loadVocabAndConvo() {
+            Object.keys(vocabData).forEach(key => {
+                const container = document.getElementById(key + 'Vocab');
+                if (!container) return;
+                vocabData[key].forEach(word => {
+                    const div = document.createElement('div');
+                    div.className = 'vocab-item shadow-sm';
+                    div.innerHTML = `<div class="font-bold ${key === 'verbs' ? 'text-red-700' : 'text-indigo-700'}">${word[0]}</div><div class="text-[9px] text-gray-400 uppercase font-black">${word[1]}</div>`;
+                    container.appendChild(div);
+                });
+            });
+            const convoContainer = document.getElementById('conversationGrid');
+            conversations.forEach(c => {
+                const div = document.createElement('div');
+                div.className = 'bg-white p-5 rounded-2xl shadow-sm border-l-4 border-indigo-500';
+                div.innerHTML = `<p class="font-bold text-lg">${c.k}</p><p class="text-sm text-gray-500 italic mb-1">${c.h}</p><p class="text-xs text-gray-400 font-medium">${c.e}</p>`;
+                convoContainer.appendChild(div);
+            });
+        }
+
+        function getSentenceData() {
+            const pKey = document.getElementById('pSel').value;
+            const oKey = document.getElementById('oSel').value;
+            const vKey = document.getElementById('vSel').value;
+            const tKey = document.getElementById('tSel').value;
+            const p = pMap[pKey];
+            const v = vMap[vKey];
+            const oOpt = document.querySelector(`#oSel option[value="${oKey}"]`);
+            const oKan = oKey ? oOpt.dataset.kan : "";
+            const oEng = oKey ? oOpt.dataset.eng : "";
+            let kRes = "", hRes = "", eRes = "";
+            const hPerson = (pKey === 'nanu' ? ' hoon' : ' hai');
+            if(tKey === "pres") { 
+                kRes = `${p.kan} ${oKan} ${v.r}utt${p.ends.pres}`; 
+                hRes = `${p.h} ${oEng} ${v.hp}${hPerson}`;
+                eRes = `${p.e} ${pKey === 'nanu' ? v.ep.replace('s','') : v.ep} ${oEng}`;
+            } else if(tKey === "cont") { 
+                kRes = `${p.kan} ${oKan} ${v.r}utt${p.ends.cont}`; 
+                hRes = `${p.h} ${oEng} ${v.hc}${hPerson}`;
+                eRes = `${p.e} ${v.ec} ${oEng}`;
+            } else if(tKey === "past") { 
+                let pr = v.r + "id";
+                if(vKey === "hogu") pr = "hōd";
+                kRes = `${p.kan} ${oKan} ${pr}${p.ends.past}`; 
+                hRes = `${p.h} ${oEng} ${v.hpa}`;
+                eRes = `${p.e} ${v.epa} ${oEng}`;
+            } else if(tKey === "futr") { 
+                kRes = `${p.kan} ${oKan} ${v.r}uv${p.ends.futr}`; 
+                hRes = `${p.h} ${oEng} ${v.hf}`;
+                eRes = `${p.e} ${v.ef} ${oEng}`;
+            }
+            return { k: kRes.trim(), h: hRes.trim(), e: eRes.trim() };
+        }
+
+        function updatePreview() {
+            const data = getSentenceData();
+            document.getElementById('resultOutput').innerText = data.k;
+            document.getElementById('hindiResult').innerText = data.h;
+            document.getElementById('englishResult').innerText = data.e;
+        }
+
+        function generateFlashcard() {
+            const data = getSentenceData();
+            const grid = document.getElementById('flashcardGrid');
+            const card = document.createElement('div');
+            card.className = "flashcard";
+            card.onclick = function() { this.classList.toggle('flipped'); };
+            card.innerHTML = `
+                <div class="flashcard-inner">
+                    <div class="flashcard-front">
+                        <span class="text-xs font-bold text-red-500 mb-2 uppercase tracking-tighter">English</span>
+                        <h3 class="text-xl font-bold">${data.e}</h3>
+                    </div>
+                    <div class="flashcard-back">
+                        <span class="text-xs font-bold text-green-600 mb-2 uppercase tracking-tighter">Kannada</span>
+                        <h3 class="text-lg font-bold">${data.k}</h3>
+                        <p class="text-xs text-gray-500 mt-2 italic">${data.h}</p>
+                    </div>
+                </div>
+            `;
+            grid.insertBefore(card, grid.firstChild);
+        }
+
+        function clearCustomCards() {
+            const grid = document.getElementById('flashcardGrid');
+            grid.innerHTML = `<div class="flashcard" onclick="this.classList.toggle('flipped')"><div class="flashcard-inner"><div class="flashcard-front"><span class="text-xs font-bold text-red-500 mb-2 uppercase tracking-tighter">English</span><h3 class="text-xl font-bold">I am drinking water</h3></div><div class="flashcard-back"><span class="text-xs font-bold text-green-600 mb-2 uppercase tracking-tighter">Kannada</span><h3 class="text-lg font-bold">Nānu nīru kuḍiyuttiddēne</h3><p class="text-xs text-gray-500 mt-2 italic">Main paani pee raha hoon</p></div></div></div>`;
+        }
+
+        document.querySelectorAll('select').forEach(s => s.addEventListener('change', updatePreview));
+        window.onload = () => { populateSelects(); loadVocabAndConvo(); updatePreview(); };
+    </script>
+</body>
+</html>
